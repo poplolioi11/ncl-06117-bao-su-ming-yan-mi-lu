@@ -12,9 +12,9 @@ All 69 source pages are indexed. Pages 6 and 7 reproduce the same scan content a
 
 ## 文字與覆核 / Text and review
 
-AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。按固定 PDF 與左右葉之欄定位，小字、藏印、書面缺損與疑讀保留分層。
+69幅逐幅回圖，按原圖與初錄核對並附訂正紀錄。採用 6 個可回圖的讀法調整。未做人類全文雙校、專家審定、同儕審查或準確率量測。按固定 PDF 與左右葉之欄定位，小字、藏印、書面缺損與疑讀保留分層。
 
-AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Fixed PDF positions and facing-leaf columns anchor the text. Small writing, seals, physical damage and uncertain readings are distinguished.
+All 69 images were reviewed. The revision documents 6 source-image-supported changes. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Fixed PDF positions and facing-leaf columns anchor the text. Small writing, seals, physical damage and uncertain readings are distinguished.
 
 TXT 依幅、面與欄提供閱讀定位。JSON 和 TEI 採同一固定取文。「□」標難辨字，缺幅或不確定缺字處由頁面說明及疑義資料標示。完整提示、私有覆核過程與專用程式未隨附。AI 實際模型路由與用量未知。
 

@@ -1,0 +1,4261 @@
+{
+  "initial_sha256": "39644e9331cb4cfd6619cd229e7fdc27544f0431a8d1589e27e464c4b501dddb",
+  "method_zh": "同一固定PDF逐幅另行盤點、選讀，保存原圖及證據框。採用的差異經回圖核對。維持逐幅選讀和疑字標記。",
+  "method_en": "A separate image review and selective rereading covered every page of the fixed PDF. Evidence boxes correspond to the review raster. Adopted differences were checked against the source images.",
+  "frames_reviewed": [
+    {
+      "frame": 1,
+      "image_sha256": "0ccff6bba279ea157971b33f3ee916413f026dfa8f37a27234a8bf54e0b4c8a5",
+      "independent_raster_sha256": "77cba30d42fe9533109044088d2ce8b9046387b15efb1a34d07e10335bd13d00",
+      "independent_raster_dimensions": [
+        1818,
+        2150
+      ],
+      "layout": "左部黃斑紋線裝封面，右有拍攝色卡、尺標，中央跨幅灰紅浮水印。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p001-cover-s01",
+          "side": "cover",
+          "role": "volume_mark",
+          "reading": "上",
+          "bbox_approx_xywh_px": [
+            1050,
+            1085,
+            80,
+            85
+          ],
+          "image_sha256": "77cba30d42fe9533109044088d2ce8b9046387b15efb1a34d07e10335bd13d00",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "image_sha256": "fa44ce1f5aa5542c053707d593278eab28771251a0ef419bc4edc291068b0fc5",
+      "independent_raster_sha256": "d575707ad541cd02ad65ed32e62e90aa51ba7c277d302813294201efbed2880b",
+      "independent_raster_dimensions": [
+        2150,
+        1801
+      ],
+      "layout": "展面左側空白，右側貼紅邊登錄籤及圓形篆印；右外有拍攝色卡、尺標。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p002-r-s01",
+          "side": "R",
+          "role": "accession_label",
+          "reading": "005843／子部醫家類／冊二",
+          "bbox_approx_xywh_px": [
+            1080,
+            555,
+            325,
+            410
+          ],
+          "image_sha256": "d575707ad541cd02ad65ed32e62e90aa51ba7c277d302813294201efbed2880b",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p002-r-s02",
+          "side": "R",
+          "role": "physical_seal",
+          "reading": "〔圓篆印待釋〕",
+          "bbox_approx_xywh_px": [
+            1168,
+            585,
+            146,
+            154
+          ],
+          "image_sha256": "d575707ad541cd02ad65ed32e62e90aa51ba7c277d302813294201efbed2880b",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "image_sha256": "c05f4f6634844e72932ebc6dabce54d9cfb2bf64dd074d1d111a65e32c7c5d37",
+      "independent_raster_sha256": "b2a7fbf789a2de85f04542e3f51bc0c11c89e38660198735110a9ef6d4110131",
+      "independent_raster_dimensions": [
+        2150,
+        1808
+      ],
+      "layout": "左右均未見古抄正文；左葉下緣有鉛筆樣橫字，右有色卡；第 002 頁貼籤在此頁已不見。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p003-l-s01",
+          "side": "L",
+          "role": "later_mark",
+          "reading": "〔短數字串待辨〕 v.1",
+          "bbox_approx_xywh_px": [
+            442,
+            1703,
+            203,
+            52
+          ],
+          "image_sha256": "b2a7fbf789a2de85f04542e3f51bc0c11c89e38660198735110a9ef6d4110131",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "image_sha256": "806f15a97d766eba6f5b2a2f93e77953dd1b485ed0fcb0efce316b52d9223a6c",
+      "independent_raster_sha256": "18cc9b9570ba7272079eed5837a2617654f2fc4fb9859b7d0cf9867fd8f16444",
+      "independent_raster_dimensions": [
+        2150,
+        1806
+      ],
+      "layout": "右葉空白；左葉有目錄首、著者、朱印二及九條較短條目。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p004-l-s01",
+          "side": "L",
+          "role": "table_of_contents_title",
+          "reading": "寶素名言秘録目録",
+          "bbox_approx_xywh_px": [
+            721,
+            268,
+            63,
+            357
+          ],
+          "image_sha256": "18cc9b9570ba7272079eed5837a2617654f2fc4fb9859b7d0cf9867fd8f16444",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p004-l-s02",
+          "side": "L",
+          "role": "authorship",
+          "reading": "蔣寶素著",
+          "bbox_approx_xywh_px": [
+            734,
+            1215,
+            51,
+            193
+          ],
+          "image_sha256": "18cc9b9570ba7272079eed5837a2617654f2fc4fb9859b7d0cf9867fd8f16444",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p004-l-s03",
+          "side": "L",
+          "role": "table_of_contents",
+          "reading": "傷濕／黄疸／傷燥／火／瘈瘲〔兩字待定〕／攣症／顫振／瘖症／痙症",
+          "bbox_approx_xywh_px": [
+            148,
+            359,
+            577,
+            132
+          ],
+          "image_sha256": "18cc9b9570ba7272079eed5837a2617654f2fc4fb9859b7d0cf9867fd8f16444",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p004-l-s04",
+          "side": "L",
+          "role": "physical_seal",
+          "reading": "〔朱文直方印待釋〕",
+          "bbox_approx_xywh_px": [
+            716,
+            1045,
+            105,
+            160
+          ],
+          "image_sha256": "18cc9b9570ba7272079eed5837a2617654f2fc4fb9859b7d0cf9867fd8f16444",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p004-l-s05",
+          "side": "L",
+          "role": "physical_seal",
+          "reading": "〔朱色方形印待釋〕",
+          "bbox_approx_xywh_px": [
+            697,
+            1421,
+            138,
+            175
+          ],
+          "image_sha256": "18cc9b9570ba7272079eed5837a2617654f2fc4fb9859b7d0cf9867fd8f16444",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "image_sha256": "9a4f15fc78d8f27111cf4ef92c466337b397d907ff753b2bb0f9da43e6286b14",
+      "independent_raster_sha256": "c171d2df586067467fb1dc3db22621493c5991a43ac818a120f78d0bd0a941c4",
+      "independent_raster_dimensions": [
+        2150,
+        1803
+      ],
+      "layout": "雙葉續目錄，條首長短參差，部分條下縮寫小字；下半多空白。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p005-r-s01",
+          "side": "R",
+          "role": "table_of_contents",
+          "reading": "癘風／癲狂／癎症／陰縮／交腸／耳／目／口唇／鼻／舌",
+          "bbox_approx_xywh_px": [
+            918,
+            352,
+            636,
+            114
+          ],
+          "image_sha256": "c171d2df586067467fb1dc3db22621493c5991a43ac818a120f78d0bd0a941c4",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p005-l-s02",
+          "side": "L",
+          "role": "table_of_contents",
+          "reading": "齒／咽喉／鬚髮／瘰癧〔疑〕／外熱内寒内熱外寒／身重／噫症〔首字疑〕／面痛／肉骨皮膚／四肢筋",
+          "bbox_approx_xywh_px": [
+            153,
+            357,
+            615,
+            115
+          ],
+          "image_sha256": "c171d2df586067467fb1dc3db22621493c5991a43ac818a120f78d0bd0a941c4",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p005-r-s03",
+          "side": "R",
+          "role": "interlinear",
+          "reading": "附眉稜骨痛〔首字似「附」〕",
+          "bbox_approx_xywh_px": [
+            1110,
+            435,
+            49,
+            197
+          ],
+          "image_sha256": "c171d2df586067467fb1dc3db22621493c5991a43ac818a120f78d0bd0a941c4",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "image_sha256": "e752d18a129df964d153a276dbc6ee0ac55ec6c17134506a66c252f6e605b60f",
+      "independent_raster_sha256": "9d38bbda6417d5785dcc000ed4a301fdfafb3276c5a3d1027e8c6705b8fbff1b",
+      "independent_raster_dimensions": [
+        2150,
+        1808
+      ],
+      "layout": "右葉僅目錄末條，左葉起正文「傷濕」，朱圈密集。左外側有較小題名。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p006-r-s01",
+          "side": "R",
+          "role": "table_of_contents",
+          "reading": "痔症〔首字疑〕",
+          "bbox_approx_xywh_px": [
+            1506,
+            359,
+            60,
+            104
+          ],
+          "image_sha256": "9d38bbda6417d5785dcc000ed4a301fdfafb3276c5a3d1027e8c6705b8fbff1b",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p006-l-s02",
+          "side": "L",
+          "role": "heading",
+          "reading": "傷濕",
+          "bbox_approx_xywh_px": [
+            705,
+            357,
+            62,
+            106
+          ],
+          "image_sha256": "9d38bbda6417d5785dcc000ed4a301fdfafb3276c5a3d1027e8c6705b8fbff1b",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p006-l-s03",
+          "side": "L",
+          "role": "opening",
+          "reading": "有天之濕霧露雨是也",
+          "bbox_approx_xywh_px": [
+            641,
+            272,
+            66,
+            396
+          ],
+          "image_sha256": "9d38bbda6417d5785dcc000ed4a301fdfafb3276c5a3d1027e8c6705b8fbff1b",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p006-l-s04",
+          "side": "L",
+          "role": "running_title",
+          "reading": "傷濕",
+          "bbox_approx_xywh_px": [
+            108,
+            624,
+            42,
+            81
+          ],
+          "image_sha256": "9d38bbda6417d5785dcc000ed4a301fdfafb3276c5a3d1027e8c6705b8fbff1b",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "image_sha256": "e752d18a129df964d153a276dbc6ee0ac55ec6c17134506a66c252f6e605b60f",
+      "independent_raster_sha256": "9d38bbda6417d5785dcc000ed4a301fdfafb3276c5a3d1027e8c6705b8fbff1b",
+      "independent_raster_dimensions": [
+        2150,
+        1808
+      ],
+      "layout": "第 006 頁相同影像重收；逐像素渲圖 SHA-256 相同，右為末一目、左起「傷濕」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p007-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "傷濕",
+          "bbox_approx_xywh_px": [
+            705,
+            357,
+            62,
+            106
+          ],
+          "image_sha256": "9d38bbda6417d5785dcc000ed4a301fdfafb3276c5a3d1027e8c6705b8fbff1b",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "image_sha256": "6430599df31023811142947aead9a7bdbb85fac624b09cb9fbe8de80e52822a5",
+      "independent_raster_sha256": "96ee23b8bd45ba26953ee0dfbf05cc0e38fc4163624ab5532df81799c65cddf6",
+      "independent_raster_dimensions": [
+        2150,
+        1811
+      ],
+      "layout": "右葉先論後「附方」；左葉續藥方，高低相間；朱點主要在右葉，左外側題記「傷濕方」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p008-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            1097,
+            357,
+            61,
+            101
+          ],
+          "image_sha256": "96ee23b8bd45ba26953ee0dfbf05cc0e38fc4163624ab5532df81799c65cddf6",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p008-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "腎著湯",
+          "bbox_approx_xywh_px": [
+            1038,
+            264,
+            58,
+            154
+          ],
+          "image_sha256": "96ee23b8bd45ba26953ee0dfbf05cc0e38fc4163624ab5532df81799c65cddf6",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p008-l-s03",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "清熱滲濕湯",
+          "bbox_approx_xywh_px": [
+            642,
+            270,
+            56,
+            236
+          ],
+          "image_sha256": "96ee23b8bd45ba26953ee0dfbf05cc0e38fc4163624ab5532df81799c65cddf6",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p008-l-s04",
+          "side": "L",
+          "role": "running_title",
+          "reading": "傷濕方",
+          "bbox_approx_xywh_px": [
+            111,
+            628,
+            48,
+            128
+          ],
+          "image_sha256": "96ee23b8bd45ba26953ee0dfbf05cc0e38fc4163624ab5532df81799c65cddf6",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "image_sha256": "7e0b6d898458cedfe6ab12f3a5fa6696fdd4a64234860276e60812e93413c989",
+      "independent_raster_sha256": "d1272a427e359165aa6050ec6573da0ebcc0abdcc6b710275e01024aff804c98",
+      "independent_raster_dimensions": [
+        2150,
+        1813
+      ],
+      "layout": "右葉無抄文，右下紙角斜缺或折；左葉另起「黄疸」，朱圈、朱細勾多。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p009-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "黄疸",
+          "bbox_approx_xywh_px": [
+            702,
+            354,
+            57,
+            105
+          ],
+          "image_sha256": "d1272a427e359165aa6050ec6573da0ebcc0abdcc6b710275e01024aff804c98",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p009-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "疸之為病皆由濕熱鬱于腸胃之中〔「鬱」待覆核〕",
+          "bbox_approx_xywh_px": [
+            636,
+            268,
+            72,
+            596
+          ],
+          "image_sha256": "d1272a427e359165aa6050ec6573da0ebcc0abdcc6b710275e01024aff804c98",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "image_sha256": "bf786f14338f750f8c390a0b91c2df43d0927369e2f16fa978648ea82ff0e7b8",
+      "independent_raster_sha256": "72c7359090c8a6d4b94f497c0a389ba219379175ead2e9d81c62dbafd5e7b966",
+      "independent_raster_dimensions": [
+        2150,
+        1806
+      ],
+      "layout": "右接黄疸論，近摺縫「附方」，左葉連列方名。左葉葛花方欄內可見小字劑量。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p010-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            1086,
+            358,
+            62,
+            99
+          ],
+          "image_sha256": "72c7359090c8a6d4b94f497c0a389ba219379175ead2e9d81c62dbafd5e7b966",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p010-l-s02",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "黄芪茵陳湯",
+          "bbox_approx_xywh_px": [
+            519,
+            276,
+            63,
+            236
+          ],
+          "image_sha256": "72c7359090c8a6d4b94f497c0a389ba219379175ead2e9d81c62dbafd5e7b966",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p010-l-s03",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "葛花解酲湯",
+          "bbox_approx_xywh_px": [
+            390,
+            276,
+            61,
+            245
+          ],
+          "image_sha256": "72c7359090c8a6d4b94f497c0a389ba219379175ead2e9d81c62dbafd5e7b966",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p010-l-s04",
+          "side": "L",
+          "role": "interlinear",
+          "reading": "葛花五分／人參五分",
+          "bbox_approx_xywh_px": [
+            333,
+            455,
+            60,
+            128
+          ],
+          "image_sha256": "72c7359090c8a6d4b94f497c0a389ba219379175ead2e9d81c62dbafd5e7b966",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "image_sha256": "349a0545bcd88b35e97d15df682db49577752144e4ebe0f4b8d849dcb4a54777",
+      "independent_raster_sha256": "76214082040ba405fabf8dda117c38494e9d565b54810185f6a0f1f2f7c4dc8d",
+      "independent_raster_dimensions": [
+        2150,
+        1811
+      ],
+      "layout": "右葉空白，左葉另起「傷燥」，有朱圈與朱劃，並在左末開「附方」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p011-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "傷燥",
+          "bbox_approx_xywh_px": [
+            705,
+            358,
+            60,
+            106
+          ],
+          "image_sha256": "76214082040ba405fabf8dda117c38494e9d565b54810185f6a0f1f2f7c4dc8d",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p011-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "燥之一症有口舌乾燥而亡津液者",
+          "bbox_approx_xywh_px": [
+            632,
+            273,
+            65,
+            627
+          ],
+          "image_sha256": "76214082040ba405fabf8dda117c38494e9d565b54810185f6a0f1f2f7c4dc8d",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p011-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            272,
+            357,
+            57,
+            102
+          ],
+          "image_sha256": "76214082040ba405fabf8dda117c38494e9d565b54810185f6a0f1f2f7c4dc8d",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p011-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "滋燥養榮湯",
+          "bbox_approx_xywh_px": [
+            204,
+            268,
+            67,
+            252
+          ],
+          "image_sha256": "76214082040ba405fabf8dda117c38494e9d565b54810185f6a0f1f2f7c4dc8d",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "image_sha256": "dd84afb8df9d2dc934ad6bcd797c2ef9e98deb92043e127242c1df2bfdf3d898",
+      "independent_raster_sha256": "8eec6d5dcc526a6fb706b2205eb022600f5a779201bdd5a650aacef58dd37634",
+      "independent_raster_dimensions": [
+        2150,
+        1808
+      ],
+      "layout": "右葉續前方，分三個方首；左葉另起「火」，朱圈密集，左外小題「火」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p012-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "大補地黄丸",
+          "bbox_approx_xywh_px": [
+            1464,
+            269,
+            64,
+            245
+          ],
+          "image_sha256": "8eec6d5dcc526a6fb706b2205eb022600f5a779201bdd5a650aacef58dd37634",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p012-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "導滯通幽散",
+          "bbox_approx_xywh_px": [
+            1199,
+            269,
+            64,
+            248
+          ],
+          "image_sha256": "8eec6d5dcc526a6fb706b2205eb022600f5a779201bdd5a650aacef58dd37634",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p012-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "火",
+          "bbox_approx_xywh_px": [
+            698,
+            360,
+            53,
+            58
+          ],
+          "image_sha256": "8eec6d5dcc526a6fb706b2205eb022600f5a779201bdd5a650aacef58dd37634",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p012-l-s04",
+          "side": "L",
+          "role": "opening",
+          "reading": "火有二曰君火曰相火",
+          "bbox_approx_xywh_px": [
+            646,
+            267,
+            62,
+            412
+          ],
+          "image_sha256": "8eec6d5dcc526a6fb706b2205eb022600f5a779201bdd5a650aacef58dd37634",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "image_sha256": "fa261a1545dabca62e329f83419dfe174b5f9420c1b6ab82f6e47f472b30c31a",
+      "independent_raster_sha256": "2f92cfd64c85521867a7cbc847c2ecdb2c795cb5f99fbe2f8a54dce8d604598b",
+      "independent_raster_dimensions": [
+        2150,
+        1811
+      ],
+      "layout": "右葉接「火」論，摺旁「附方」，左葉方名與藥名錯落；左外小題「火方」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p013-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            1038,
+            354,
+            62,
+            112
+          ],
+          "image_sha256": "2f92cfd64c85521867a7cbc847c2ecdb2c795cb5f99fbe2f8a54dce8d604598b",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p013-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "升陽散火湯",
+          "bbox_approx_xywh_px": [
+            966,
+            264,
+            60,
+            232
+          ],
+          "image_sha256": "2f92cfd64c85521867a7cbc847c2ecdb2c795cb5f99fbe2f8a54dce8d604598b",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p013-l-s03",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "黄連解毒湯",
+          "bbox_approx_xywh_px": [
+            460,
+            271,
+            63,
+            248
+          ],
+          "image_sha256": "2f92cfd64c85521867a7cbc847c2ecdb2c795cb5f99fbe2f8a54dce8d604598b",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p013-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "神芎丸",
+          "bbox_approx_xywh_px": [
+            209,
+            275,
+            62,
+            147
+          ],
+          "image_sha256": "2f92cfd64c85521867a7cbc847c2ecdb2c795cb5f99fbe2f8a54dce8d604598b",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "image_sha256": "d2805385f058b2a996edb84e51dcf031e610dbdee6824580dde07a7cbcf79ecb",
+      "independent_raster_sha256": "31e2dba42a695955111e61f1d5bd507d8e4186f7caeecc3aa519a79d3efcbfaf",
+      "independent_raster_dimensions": [
+        2150,
+        1806
+      ],
+      "layout": "右葉續列玄参湯、左金丸等方；左葉轉入筋脉拘急與弛縱，朱圈密集，左上舊紙邊缺、欄中小白斑。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p014-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "玄参湯",
+          "bbox_approx_xywh_px": [
+            1435,
+            268,
+            69,
+            165
+          ],
+          "image_sha256": "31e2dba42a695955111e61f1d5bd507d8e4186f7caeecc3aa519a79d3efcbfaf",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p014-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "左金丸",
+          "bbox_approx_xywh_px": [
+            1249,
+            268,
+            62,
+            167
+          ],
+          "image_sha256": "31e2dba42a695955111e61f1d5bd507d8e4186f7caeecc3aa519a79d3efcbfaf",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p014-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "瘈瘲〔字形待覆核〕",
+          "bbox_approx_xywh_px": [
+            687,
+            355,
+            64,
+            111
+          ],
+          "image_sha256": "31e2dba42a695955111e61f1d5bd507d8e4186f7caeecc3aa519a79d3efcbfaf",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p014-l-s04",
+          "side": "L",
+          "role": "opening",
+          "reading": "瘈者筋脉拘急瘲者筋脉弛縱〔首字及「弛」疑〕",
+          "bbox_approx_xywh_px": [
+            622,
+            268,
+            65,
+            553
+          ],
+          "image_sha256": "31e2dba42a695955111e61f1d5bd507d8e4186f7caeecc3aa519a79d3efcbfaf",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "image_sha256": "b85082cd1cd271b72614dd4759c896b5938f6d6c6bb632d480a4284bf96dc4a2",
+      "independent_raster_sha256": "c1ad3266b1cb93478c15cfee9ccf37fb2a31590f743fea6c8658f7e6439fe3f2",
+      "independent_raster_dimensions": [
+        2150,
+        1813
+      ],
+      "layout": "右葉承前論，範圍有小兒與産後，靠中段開「附方」；左葉續方，外側小題。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p015-r-s01",
+          "side": "R",
+          "role": "opening",
+          "reading": "小兒吐瀉後多見此症",
+          "bbox_approx_xywh_px": [
+            1440,
+            321,
+            64,
+            411
+          ],
+          "image_sha256": "c1ad3266b1cb93478c15cfee9ccf37fb2a31590f743fea6c8658f7e6439fe3f2",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p015-r-s02",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            1248,
+            358,
+            60,
+            106
+          ],
+          "image_sha256": "c1ad3266b1cb93478c15cfee9ccf37fb2a31590f743fea6c8658f7e6439fe3f2",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p015-r-s03",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "凉驚丸",
+          "bbox_approx_xywh_px": [
+            1182,
+            273,
+            62,
+            160
+          ],
+          "image_sha256": "c1ad3266b1cb93478c15cfee9ccf37fb2a31590f743fea6c8658f7e6439fe3f2",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p015-l-s04",
+          "side": "L",
+          "role": "formula_note",
+          "reading": "逍遥散加丹皮梔子即名加味逍遥散",
+          "bbox_approx_xywh_px": [
+            500,
+            277,
+            76,
+            715
+          ],
+          "image_sha256": "c1ad3266b1cb93478c15cfee9ccf37fb2a31590f743fea6c8658f7e6439fe3f2",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "image_sha256": "f51352486ece469d3fe2c2e0e63619cb8fbed75baacf6d5133d4678d34a57680",
+      "independent_raster_sha256": "1522d2d4db9553643c7a1892736b1160d9723d6064a4ef2e2c809cf0ef5d7fae",
+      "independent_raster_dimensions": [
+        2150,
+        1811
+      ],
+      "layout": "右葉空白；左葉起筋攣條並有「附方」，有朱圈；左外側小題「攣症方」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p016-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "攣症",
+          "bbox_approx_xywh_px": [
+            679,
+            355,
+            65,
+            106
+          ],
+          "image_sha256": "1522d2d4db9553643c7a1892736b1160d9723d6064a4ef2e2c809cf0ef5d7fae",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p016-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "攣皆屬肝々主身之筋故也",
+          "bbox_approx_xywh_px": [
+            621,
+            270,
+            74,
+            474
+          ],
+          "image_sha256": "1522d2d4db9553643c7a1892736b1160d9723d6064a4ef2e2c809cf0ef5d7fae",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p016-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            316,
+            358,
+            60,
+            106
+          ],
+          "image_sha256": "1522d2d4db9553643c7a1892736b1160d9723d6064a4ef2e2c809cf0ef5d7fae",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p016-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "烏頭湯",
+          "bbox_approx_xywh_px": [
+            251,
+            278,
+            65,
+            158
+          ],
+          "image_sha256": "1522d2d4db9553643c7a1892736b1160d9723d6064a4ef2e2c809cf0ef5d7fae",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "image_sha256": "1efa9dc454ef7c91b02cdf7c2e044478df785450fd20ac8e9e78617dad1c2cf4",
+      "independent_raster_sha256": "720e4facf4c4f8aecaebba98dbdadc285c91a078d4af4c89e1ec629360a99157",
+      "independent_raster_dimensions": [
+        2150,
+        1811
+      ],
+      "layout": "右葉續攣症方，左葉起「顫振」，朱圈可辨，最左加「附方」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p017-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "千金苡仁湯",
+          "bbox_approx_xywh_px": [
+            1433,
+            274,
+            62,
+            247
+          ],
+          "image_sha256": "720e4facf4c4f8aecaebba98dbdadc285c91a078d4af4c89e1ec629360a99157",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p017-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "活血通經湯",
+          "bbox_approx_xywh_px": [
+            1300,
+            272,
+            65,
+            248
+          ],
+          "image_sha256": "720e4facf4c4f8aecaebba98dbdadc285c91a078d4af4c89e1ec629360a99157",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p017-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "顫振",
+          "bbox_approx_xywh_px": [
+            688,
+            400,
+            60,
+            107
+          ],
+          "image_sha256": "720e4facf4c4f8aecaebba98dbdadc285c91a078d4af4c89e1ec629360a99157",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p017-l-s04",
+          "side": "L",
+          "role": "opening",
+          "reading": "顫者搖也振者動也",
+          "bbox_approx_xywh_px": [
+            632,
+            278,
+            62,
+            360
+          ],
+          "image_sha256": "720e4facf4c4f8aecaebba98dbdadc285c91a078d4af4c89e1ec629360a99157",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "image_sha256": "140bf1aee585f8587cb147cc2e78cfc6645ca56c4208f080a2e2c6340411df75",
+      "independent_raster_sha256": "85e5ac0c4e4c3e7fef73fc69124a019dd66cf0d1ee012f5205faa7d76edcb799",
+      "independent_raster_dimensions": [
+        2150,
+        1811
+      ],
+      "layout": "雙葉續顫振方，左葉只有靠摺側三欄及外側小題；左舊紙上邊缺。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p018-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "推肝散〔首字疑〕",
+          "bbox_approx_xywh_px": [
+            1430,
+            272,
+            63,
+            158
+          ],
+          "image_sha256": "85e5ac0c4e4c3e7fef73fc69124a019dd66cf0d1ee012f5205faa7d76edcb799",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p018-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "補心丸",
+          "bbox_approx_xywh_px": [
+            1109,
+            268,
+            64,
+            157
+          ],
+          "image_sha256": "85e5ac0c4e4c3e7fef73fc69124a019dd66cf0d1ee012f5205faa7d76edcb799",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p018-r-s03",
+          "side": "R",
+          "role": "formula_note",
+          "reading": "四物湯加秦艽",
+          "bbox_approx_xywh_px": [
+            932,
+            439,
+            58,
+            245
+          ],
+          "image_sha256": "85e5ac0c4e4c3e7fef73fc69124a019dd66cf0d1ee012f5205faa7d76edcb799",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p018-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "三聖湯",
+          "bbox_approx_xywh_px": [
+            680,
+            275,
+            62,
+            166
+          ],
+          "image_sha256": "85e5ac0c4e4c3e7fef73fc69124a019dd66cf0d1ee012f5205faa7d76edcb799",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p018-l-s05",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "導痰湯",
+          "bbox_approx_xywh_px": [
+            551,
+            272,
+            63,
+            162
+          ],
+          "image_sha256": "85e5ac0c4e4c3e7fef73fc69124a019dd66cf0d1ee012f5205faa7d76edcb799",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "image_sha256": "965067da0385efd4273bee3f65857f6f703731024dce0ac3d385ffdccfc6ca71",
+      "independent_raster_sha256": "7a5cf6db20a1764b674716dfa6d3f8897bba303269ec1f656808c39d1fcdead9",
+      "independent_raster_dimensions": [
+        2150,
+        1813
+      ],
+      "layout": "右葉空白；左起瘖症論，正文旁密見朱圈、朱點與朱劃。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p019-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "瘖症",
+          "bbox_approx_xywh_px": [
+            684,
+            352,
+            60,
+            110
+          ],
+          "image_sha256": "7a5cf6db20a1764b674716dfa6d3f8897bba303269ec1f656808c39d1fcdead9",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p019-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "瘖者邪入陰部也",
+          "bbox_approx_xywh_px": [
+            630,
+            266,
+            65,
+            302
+          ],
+          "image_sha256": "7a5cf6db20a1764b674716dfa6d3f8897bba303269ec1f656808c39d1fcdead9",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p019-l-s03",
+          "side": "L",
+          "role": "body_excerpt",
+          "reading": "經曰邪搏陰則為瘖〔「搏」疑〕",
+          "bbox_approx_xywh_px": [
+            625,
+            587,
+            62,
+            322
+          ],
+          "image_sha256": "7a5cf6db20a1764b674716dfa6d3f8897bba303269ec1f656808c39d1fcdead9",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "image_sha256": "8e91c0eb10d7c9be6d70d8d826dda9408c27fb1c4754ce364adacee9e005314e",
+      "independent_raster_sha256": "97fc7189542f2545ca24dd0220548a0801627e5bbded677f8ca309a9e601eddf",
+      "independent_raster_dimensions": [
+        2150,
+        1816
+      ],
+      "layout": "右葉承喉瘖，三欄朱圈與朱點後轉附方；左葉續方，上緣大段不規則缺邊。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p020-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            1245,
+            359,
+            60,
+            100
+          ],
+          "image_sha256": "97fc7189542f2545ca24dd0220548a0801627e5bbded677f8ca309a9e601eddf",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p020-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "訶子湯",
+          "bbox_approx_xywh_px": [
+            1182,
+            268,
+            61,
+            165
+          ],
+          "image_sha256": "97fc7189542f2545ca24dd0220548a0801627e5bbded677f8ca309a9e601eddf",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p020-r-s03",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "玉粉丸",
+          "bbox_approx_xywh_px": [
+            936,
+            267,
+            61,
+            169
+          ],
+          "image_sha256": "97fc7189542f2545ca24dd0220548a0801627e5bbded677f8ca309a9e601eddf",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p020-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "地黄飲子",
+          "bbox_approx_xywh_px": [
+            682,
+            272,
+            60,
+            199
+          ],
+          "image_sha256": "97fc7189542f2545ca24dd0220548a0801627e5bbded677f8ca309a9e601eddf",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p020-l-s05",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "轉舌膏〔首字疑〕",
+          "bbox_approx_xywh_px": [
+            496,
+            266,
+            58,
+            172
+          ],
+          "image_sha256": "97fc7189542f2545ca24dd0220548a0801627e5bbded677f8ca309a9e601eddf",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "image_sha256": "1bc79ec2fb10a4ed6d5985b13fe7083fe5cf125351cdc8a8e34f85531e02e068",
+      "independent_raster_sha256": "ce27fb6ece2d5a09f33190acfeb0e8a33f5b2714ef5fc29549cf991c239eb380",
+      "independent_raster_dimensions": [
+        2150,
+        1813
+      ],
+      "layout": "右葉空白，左葉起「痙症」，本頁朱圈較少，正文墨色疏淡。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p021-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "痙症",
+          "bbox_approx_xywh_px": [
+            674,
+            355,
+            64,
+            105
+          ],
+          "image_sha256": "ce27fb6ece2d5a09f33190acfeb0e8a33f5b2714ef5fc29549cf991c239eb380",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p021-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "痙者因太陽中風重感寒濕因得之",
+          "bbox_approx_xywh_px": [
+            616,
+            275,
+            60,
+            579
+          ],
+          "image_sha256": "ce27fb6ece2d5a09f33190acfeb0e8a33f5b2714ef5fc29549cf991c239eb380",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p021-l-s03",
+          "side": "L",
+          "role": "body_excerpt",
+          "reading": "發熱無汗惡寒為剛痙",
+          "bbox_approx_xywh_px": [
+            488,
+            366,
+            64,
+            480
+          ],
+          "image_sha256": "ce27fb6ece2d5a09f33190acfeb0e8a33f5b2714ef5fc29549cf991c239eb380",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "image_sha256": "a5d52bb998745898185e584bbe5c5137055d9b03e71a486a858b57666d60ae13",
+      "independent_raster_sha256": "d1f65298e9e4b19fa27729ec7072750c7693551b261dc95f19ef92a1576e7a15",
+      "independent_raster_dimensions": [
+        2150,
+        1819
+      ],
+      "layout": "右葉續痙症並引「新甫云」，摺旁轉「附方」；左葉續列痙症方。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p022-r-s01",
+          "side": "R",
+          "role": "attribution",
+          "reading": "新甫云産後痙由亡血過多〔「甫」照形〕",
+          "bbox_approx_xywh_px": [
+            1371,
+            326,
+            63,
+            438
+          ],
+          "image_sha256": "d1f65298e9e4b19fa27729ec7072750c7693551b261dc95f19ef92a1576e7a15",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p022-r-s02",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            1126,
+            362,
+            63,
+            107
+          ],
+          "image_sha256": "d1f65298e9e4b19fa27729ec7072750c7693551b261dc95f19ef92a1576e7a15",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p022-r-s03",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "葛根湯",
+          "bbox_approx_xywh_px": [
+            1059,
+            272,
+            62,
+            169
+          ],
+          "image_sha256": "d1f65298e9e4b19fa27729ec7072750c7693551b261dc95f19ef92a1576e7a15",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p022-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "防風當歸湯",
+          "bbox_approx_xywh_px": [
+            680,
+            272,
+            60,
+            246
+          ],
+          "image_sha256": "d1f65298e9e4b19fa27729ec7072750c7693551b261dc95f19ef92a1576e7a15",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "image_sha256": "afae3323442d24fbbfacf1e85bb688a9afcf22884311c29528bc195507b5838e",
+      "independent_raster_sha256": "93d68d00aecb5b25ddfa4c02f6c1f2f8b23905a5359918c313198db3dcb39ad4",
+      "independent_raster_dimensions": [
+        2150,
+        1816
+      ],
+      "layout": "右葉空白，近摺上緣有缺邊；左葉起癘風，條首旁有小字，正文雙列大小不一。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p023-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "癘風",
+          "bbox_approx_xywh_px": [
+            670,
+            360,
+            68,
+            104
+          ],
+          "image_sha256": "93d68d00aecb5b25ddfa4c02f6c1f2f8b23905a5359918c313198db3dcb39ad4",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p023-l-s02",
+          "side": "L",
+          "role": "interlinear",
+          "reading": "附歷節風〔「歷」暫讀〕",
+          "bbox_approx_xywh_px": [
+            690,
+            464,
+            66,
+            145
+          ],
+          "image_sha256": "93d68d00aecb5b25ddfa4c02f6c1f2f8b23905a5359918c313198db3dcb39ad4",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p023-l-s03",
+          "side": "L",
+          "role": "interlinear",
+          "reading": "斑丹火毒",
+          "bbox_approx_xywh_px": [
+            687,
+            651,
+            62,
+            167
+          ],
+          "image_sha256": "93d68d00aecb5b25ddfa4c02f6c1f2f8b23905a5359918c313198db3dcb39ad4",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p023-l-s04",
+          "side": "L",
+          "role": "opening",
+          "reading": "癘風者受天地惡烈之風",
+          "bbox_approx_xywh_px": [
+            608,
+            276,
+            64,
+            446
+          ],
+          "image_sha256": "93d68d00aecb5b25ddfa4c02f6c1f2f8b23905a5359918c313198db3dcb39ad4",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "image_sha256": "0293e5e8ad3ad9a860b28078fb0ff47c9565a2adbb6d0dd99e1b49637ec8df17",
+      "independent_raster_sha256": "d42bc66076b2298307dc3a0a9660349c6852fef20bc0f43637b7df83fb61c682",
+      "independent_raster_dimensions": [
+        2150,
+        1819
+      ],
+      "layout": "右葉起癘風附方，左葉續方，最左轉「附歷節風」條；朱圈稀少。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p024-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            1418,
+            360,
+            58,
+            101
+          ],
+          "image_sha256": "d42bc66076b2298307dc3a0a9660349c6852fef20bc0f43637b7df83fb61c682",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p024-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "樺皮散",
+          "bbox_approx_xywh_px": [
+            1355,
+            276,
+            64,
+            160
+          ],
+          "image_sha256": "d42bc66076b2298307dc3a0a9660349c6852fef20bc0f43637b7df83fb61c682",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p024-l-s03",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "通天再造散",
+          "bbox_approx_xywh_px": [
+            420,
+            276,
+            63,
+            237
+          ],
+          "image_sha256": "d42bc66076b2298307dc3a0a9660349c6852fef20bc0f43637b7df83fb61c682",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p024-l-s04",
+          "side": "L",
+          "role": "heading",
+          "reading": "附歷節風〔「歷」暫讀〕",
+          "bbox_approx_xywh_px": [
+            286,
+            405,
+            65,
+            172
+          ],
+          "image_sha256": "d42bc66076b2298307dc3a0a9660349c6852fef20bc0f43637b7df83fb61c682",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "image_sha256": "ea5007fb4858d15b126b503cae74b2072e6ceeb4570cc2ec72b1ae769bf3bf33",
+      "independent_raster_sha256": "f08740d9e9b2333b5f85485ae9f0cd95c7a281c591674970798ee883cd11b7ca",
+      "independent_raster_dimensions": [
+        2150,
+        1819
+      ],
+      "layout": "右葉接歷節風並列「斑丹火毒症」；左葉另起「癲狂」，附小字「鬼祟」，欄內有引述。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p025-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "斑丹火毒症",
+          "bbox_approx_xywh_px": [
+            1279,
+            444,
+            67,
+            229
+          ],
+          "image_sha256": "f08740d9e9b2333b5f85485ae9f0cd95c7a281c591674970798ee883cd11b7ca",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p025-l-s02",
+          "side": "L",
+          "role": "heading",
+          "reading": "癲狂",
+          "bbox_approx_xywh_px": [
+            675,
+            357,
+            60,
+            105
+          ],
+          "image_sha256": "f08740d9e9b2333b5f85485ae9f0cd95c7a281c591674970798ee883cd11b7ca",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p025-l-s03",
+          "side": "L",
+          "role": "interlinear",
+          "reading": "附鬼祟",
+          "bbox_approx_xywh_px": [
+            689,
+            468,
+            63,
+            144
+          ],
+          "image_sha256": "f08740d9e9b2333b5f85485ae9f0cd95c7a281c591674970798ee883cd11b7ca",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p025-l-s04",
+          "side": "L",
+          "role": "attribution",
+          "reading": "春甫曰〔「春」初讀〕",
+          "bbox_approx_xywh_px": [
+            600,
+            1225,
+            70,
+            186
+          ],
+          "image_sha256": "f08740d9e9b2333b5f85485ae9f0cd95c7a281c591674970798ee883cd11b7ca",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 26,
+      "image_sha256": "e05a933b5dbce1b55995daf658bf7d82b324793c66be379251666a5b202d93cf",
+      "independent_raster_sha256": "6cd315dcff926e48ca790602cef7dbb284cff1f5d512387adb47c7adac9311ff",
+      "independent_raster_dimensions": [
+        2150,
+        1824
+      ],
+      "layout": "右葉列癲狂附方，近中後段「附鬼祟」，再出一處「附方」；左葉靠摺側四欄，餘多空白。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p026-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "苦参丹治狂",
+          "bbox_approx_xywh_px": [
+            1356,
+            267,
+            66,
+            326
+          ],
+          "image_sha256": "6cd315dcff926e48ca790602cef7dbb284cff1f5d512387adb47c7adac9311ff",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p026-r-s02",
+          "side": "R",
+          "role": "heading",
+          "reading": "附鬼祟",
+          "bbox_approx_xywh_px": [
+            1105,
+            391,
+            55,
+            148
+          ],
+          "image_sha256": "6cd315dcff926e48ca790602cef7dbb284cff1f5d512387adb47c7adac9311ff",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p026-r-s03",
+          "side": "R",
+          "role": "opening",
+          "reading": "夫人攝理失節血氣虚衰",
+          "bbox_approx_xywh_px": [
+            1044,
+            312,
+            62,
+            360
+          ],
+          "image_sha256": "6cd315dcff926e48ca790602cef7dbb284cff1f5d512387adb47c7adac9311ff",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p026-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "茯神散",
+          "bbox_approx_xywh_px": [
+            674,
+            272,
+            67,
+            160
+          ],
+          "image_sha256": "6cd315dcff926e48ca790602cef7dbb284cff1f5d512387adb47c7adac9311ff",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p026-l-s05",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "治癲神效方",
+          "bbox_approx_xywh_px": [
+            543,
+            273,
+            64,
+            241
+          ],
+          "image_sha256": "6cd315dcff926e48ca790602cef7dbb284cff1f5d512387adb47c7adac9311ff",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 27,
+      "image_sha256": "31f79adb6580c928530595f4f912bec68ba45be3ebe7ea95be7e7f94f2b93d29",
+      "independent_raster_sha256": "1dbcb4494f7334cada8bf3ed689457a096efc7585fce8771da9409055fe4af0c",
+      "independent_raster_dimensions": [
+        2150,
+        1824
+      ],
+      "layout": "右葉空白，左起癎症，連續墨欄，最左見「附方」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p027-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "癎症",
+          "bbox_approx_xywh_px": [
+            663,
+            360,
+            61,
+            104
+          ],
+          "image_sha256": "1dbcb4494f7334cada8bf3ed689457a096efc7585fce8771da9409055fe4af0c",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p027-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "癎病與卒中痙病相同",
+          "bbox_approx_xywh_px": [
+            601,
+            275,
+            63,
+            457
+          ],
+          "image_sha256": "1dbcb4494f7334cada8bf3ed689457a096efc7585fce8771da9409055fe4af0c",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p027-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            110,
+            361,
+            60,
+            107
+          ],
+          "image_sha256": "1dbcb4494f7334cada8bf3ed689457a096efc7585fce8771da9409055fe4af0c",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 28,
+      "image_sha256": "7a94ba69e65855a3b0ae811509d91bfa0c5d0bb7c4e0ee699e82ba4a0a08017c",
+      "independent_raster_sha256": "8c550401cd1cf8bfdb78ec863e82bc217c02b6f46b40d6025338199c69a297ab",
+      "independent_raster_dimensions": [
+        2150,
+        1826
+      ],
+      "layout": "雙葉續癎症方；右葉方欄較滿，左葉僅靠摺四個長短欄及外側小題。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p028-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "定志丸",
+          "bbox_approx_xywh_px": [
+            1410,
+            266,
+            60,
+            159
+          ],
+          "image_sha256": "8c550401cd1cf8bfdb78ec863e82bc217c02b6f46b40d6025338199c69a297ab",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p028-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "清心抑胆湯",
+          "bbox_approx_xywh_px": [
+            1096,
+            265,
+            69,
+            243
+          ],
+          "image_sha256": "8c550401cd1cf8bfdb78ec863e82bc217c02b6f46b40d6025338199c69a297ab",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p028-r-s03",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "追風祛痰丸",
+          "bbox_approx_xywh_px": [
+            906,
+            266,
+            65,
+            245
+          ],
+          "image_sha256": "8c550401cd1cf8bfdb78ec863e82bc217c02b6f46b40d6025338199c69a297ab",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p028-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "清心滚痰丸〔「滚」形待核〕",
+          "bbox_approx_xywh_px": [
+            658,
+            295,
+            63,
+            242
+          ],
+          "image_sha256": "8c550401cd1cf8bfdb78ec863e82bc217c02b6f46b40d6025338199c69a297ab",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 29,
+      "image_sha256": "75b15dcced1a6ef7234dac40aad89fe4edac3ea3561fccb714a5f330288a1db3",
+      "independent_raster_sha256": "7f3ef5143fc371d7c6c4faf6c150610b673e6aa8f9d8c6a27f0d07fd5a7b216a",
+      "independent_raster_dimensions": [
+        2150,
+        1829
+      ],
+      "layout": "右葉無正文，靠摺下段有黑色零星痕；左葉首欄長列多個並題，餘為論治，最左列僅一「妙」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p029-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "陰縮陰縱陰痿陰汗臊臭陰痒陰腫痛〔「痿」「痒」照形初讀〕",
+          "bbox_approx_xywh_px": [
+            664,
+            362,
+            73,
+            688
+          ],
+          "image_sha256": "7f3ef5143fc371d7c6c4faf6c150610b673e6aa8f9d8c6a27f0d07fd5a7b216a",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p029-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "前陰者肝經與督脉所過",
+          "bbox_approx_xywh_px": [
+            604,
+            274,
+            62,
+            449
+          ],
+          "image_sha256": "7f3ef5143fc371d7c6c4faf6c150610b673e6aa8f9d8c6a27f0d07fd5a7b216a",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "image_sha256": "e7e78e42e8e805239c511c3d8f8e5752b46ee3ab0d21128c1c566d8659fde250",
+      "independent_raster_sha256": "b7e86c045fe54e4a052bb45e1b774dfae976d7bcfa4450fcd3c4765d466bac09",
+      "independent_raster_dimensions": [
+        2150,
+        1829
+      ],
+      "layout": "右葉附前條方，靠摺處紙緣有小缺；左葉首列並舉四類，下接正文。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p030-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "柴胡勝濕湯",
+          "bbox_approx_xywh_px": [
+            1366,
+            269,
+            63,
+            244
+          ],
+          "image_sha256": "b7e86c045fe54e4a052bb45e1b774dfae976d7bcfa4450fcd3c4765d466bac09",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p030-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "龍胆瀉肝湯",
+          "bbox_approx_xywh_px": [
+            1167,
+            267,
+            69,
+            250
+          ],
+          "image_sha256": "b7e86c045fe54e4a052bb45e1b774dfae976d7bcfa4450fcd3c4765d466bac09",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p030-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "交腸／腸鳴／脱肛／穀道痛痒〔「穀」「痒」暫讀〕",
+          "bbox_approx_xywh_px": [
+            663,
+            354,
+            67,
+            579
+          ],
+          "image_sha256": "b7e86c045fe54e4a052bb45e1b774dfae976d7bcfa4450fcd3c4765d466bac09",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p030-l-s04",
+          "side": "L",
+          "role": "opening",
+          "reading": "交腸者大小腸易位而出",
+          "bbox_approx_xywh_px": [
+            598,
+            271,
+            67,
+            426
+          ],
+          "image_sha256": "b7e86c045fe54e4a052bb45e1b774dfae976d7bcfa4450fcd3c4765d466bac09",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "image_sha256": "e305735aad7c607598cf67d549b28507c513023cd970b134a2637ae8c05d1de4",
+      "independent_raster_sha256": "b66b49b964c8cdee0de5751535a699a0475d367dc7726e59aac13268476db7f1",
+      "independent_raster_dimensions": [
+        2150,
+        1831
+      ],
+      "layout": "右葉為前條附方，左葉另起耳論；左外小字重標「耳」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p031-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            1413,
+            359,
+            60,
+            102
+          ],
+          "image_sha256": "b66b49b964c8cdee0de5751535a699a0475d367dc7726e59aac13268476db7f1",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p031-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "参术實脾湯",
+          "bbox_approx_xywh_px": [
+            1350,
+            269,
+            63,
+            249
+          ],
+          "image_sha256": "b66b49b964c8cdee0de5751535a699a0475d367dc7726e59aac13268476db7f1",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p031-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "耳",
+          "bbox_approx_xywh_px": [
+            661,
+            358,
+            57,
+            62
+          ],
+          "image_sha256": "b66b49b964c8cdee0de5751535a699a0475d367dc7726e59aac13268476db7f1",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p031-l-s04",
+          "side": "L",
+          "role": "opening",
+          "reading": "夫耳者腎之外候也精氣不足",
+          "bbox_approx_xywh_px": [
+            600,
+            281,
+            66,
+            435
+          ],
+          "image_sha256": "b66b49b964c8cdee0de5751535a699a0475d367dc7726e59aac13268476db7f1",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 32,
+      "image_sha256": "008c54bbe2147600cb41dfd2338b691376d86ed2ddbd253dc73234bb55479583",
+      "independent_raster_sha256": "c25d9822bec82682dc3af820d8e6e04624e595ddbd99f7773c2b7184f2eb2080",
+      "independent_raster_dimensions": [
+        2150,
+        1836
+      ],
+      "layout": "右葉續耳論；左葉最右兩欄為第一人稱病例，轉入附方，左外書「耳方」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p032-l-s01",
+          "side": "L",
+          "role": "case_excerpt",
+          "reading": "余患右耳腫痛孔竅閉塞滴水難入〔「竅」待覆核〕",
+          "bbox_approx_xywh_px": [
+            651,
+            323,
+            65,
+            641
+          ],
+          "image_sha256": "c25d9822bec82682dc3af820d8e6e04624e595ddbd99f7773c2b7184f2eb2080",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p032-l-s02",
+          "side": "L",
+          "role": "case_excerpt",
+          "reading": "地黄丸加石菖一錢一服即愈〔「菖」待覆核〕",
+          "bbox_approx_xywh_px": [
+            587,
+            322,
+            64,
+            537
+          ],
+          "image_sha256": "c25d9822bec82682dc3af820d8e6e04624e595ddbd99f7773c2b7184f2eb2080",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p032-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            536,
+            367,
+            59,
+            108
+          ],
+          "image_sha256": "c25d9822bec82682dc3af820d8e6e04624e595ddbd99f7773c2b7184f2eb2080",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p032-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "犀角散〔次字待覆核〕",
+          "bbox_approx_xywh_px": [
+            466,
+            275,
+            62,
+            164
+          ],
+          "image_sha256": "c25d9822bec82682dc3af820d8e6e04624e595ddbd99f7773c2b7184f2eb2080",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 33,
+      "image_sha256": "3e8a63c2e40100978f8d68cdad52752f4a904bbd70c9628af30b50de39005e47",
+      "independent_raster_sha256": "2fb9236cfc79cdefac51997d2f9833edb1442020f8a314a465a7353700cc1f98",
+      "independent_raster_dimensions": [
+        2150,
+        1844
+      ],
+      "layout": "雙葉續耳方，除方名、藥名外，左葉有病因／症狀作方題；左外仍記「耳方」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p033-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "益氣聰耳湯",
+          "bbox_approx_xywh_px": [
+            1330,
+            271,
+            68,
+            245
+          ],
+          "image_sha256": "2fb9236cfc79cdefac51997d2f9833edb1442020f8a314a465a7353700cc1f98",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p033-l-s02",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "白龍散",
+          "bbox_approx_xywh_px": [
+            649,
+            272,
+            60,
+            159
+          ],
+          "image_sha256": "2fb9236cfc79cdefac51997d2f9833edb1442020f8a314a465a7353700cc1f98",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p033-l-s03",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "蜈蚣入耳方",
+          "bbox_approx_xywh_px": [
+            411,
+            276,
+            61,
+            224
+          ],
+          "image_sha256": "2fb9236cfc79cdefac51997d2f9833edb1442020f8a314a465a7353700cc1f98",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p033-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "虫入耳方",
+          "bbox_approx_xywh_px": [
+            279,
+            277,
+            66,
+            225
+          ],
+          "image_sha256": "2fb9236cfc79cdefac51997d2f9833edb1442020f8a314a465a7353700cc1f98",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 34,
+      "image_sha256": "f1b821dead9bc7d99bc90b77189a828e254f6e5fe001b67d572d6f702e72f58a",
+      "independent_raster_sha256": "d8cde11585a8bb97b20c78cb9f53edbd11004065d16876df2af71b7e38e7d067",
+      "independent_raster_dimensions": [
+        2150,
+        1847
+      ],
+      "layout": "右葉外沿僅耳方末一欄，左葉白紙空白，色卡在右。第 035 頁續見空白護葉。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p034-r-s01",
+          "side": "R",
+          "role": "formula_end",
+          "reading": "牡蠣　杜仲　桑螵蛸　生地　桂心",
+          "bbox_approx_xywh_px": [
+            1399,
+            350,
+            66,
+            641
+          ],
+          "image_sha256": "d8cde11585a8bb97b20c78cb9f53edbd11004065d16876df2af71b7e38e7d067",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 35,
+      "image_sha256": "6ed27fff15067ddabd7876ac28fbe623f99c9e32f54f6fb3c89ae7919df10c2f",
+      "independent_raster_sha256": "3f7a303d96ee12d27c7d41aee667d37c4b6ebc996fd30946125b6a56f7f36bc1",
+      "independent_raster_dimensions": [
+        2150,
+        1839
+      ],
+      "layout": "展面兩葉均空白，有紙層邊、拍攝色卡及數位浮水印，屬上冊末部護葉。",
+      "observed_counts": null,
+      "evidence": []
+    },
+    {
+      "frame": 36,
+      "image_sha256": "90a71cdc8afc06853bd4b8024f0c6a09d2508e2b540a5df5cee7ab823511669f",
+      "independent_raster_sha256": "b07e55c4cf65e76796c58c5209acfa781e6758da5cd70bb4bd2b2a8b18d2f45c",
+      "independent_raster_dimensions": [
+        2150,
+        1847
+      ],
+      "layout": "上冊末部雙面空白護葉。較第 035 頁摺位與紙紋略異，右邊紙層可見。",
+      "observed_counts": null,
+      "evidence": []
+    },
+    {
+      "frame": 37,
+      "image_sha256": "ccf9fb8d3da449b37fbf6c01dd5da35fee5bde7300190ec101cb9fba669fb182",
+      "independent_raster_sha256": "94595829550a1b7d91a55e76893182d9e15117b021341d5a24a5c3a9b6526077",
+      "independent_raster_dimensions": [
+        1774,
+        2150
+      ],
+      "layout": "上冊黃斑紋封底，線裝縫居左，拍攝色卡在右。封面材質與第 001 頁相類，無冊字。",
+      "observed_counts": null,
+      "evidence": []
+    },
+    {
+      "frame": 38,
+      "image_sha256": "da566afb39b681791872553d04ef73f6b545723fce5b02ac2a0e42ab81451ac0",
+      "independent_raster_sha256": "333151ca2e39073bc3c6b154a30dbe5746780f969eba480af60635f8c4289cb4",
+      "independent_raster_dimensions": [
+        1765,
+        2150
+      ],
+      "layout": "下冊黃斑紋封面，線裝縫居右，封面近右中墨書冊字；右另攝色卡。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p038-cover-s01",
+          "side": "cover",
+          "role": "volume_mark",
+          "reading": "下",
+          "bbox_approx_xywh_px": [
+            1059,
+            1104,
+            67,
+            78
+          ],
+          "image_sha256": "333151ca2e39073bc3c6b154a30dbe5746780f969eba480af60635f8c4289cb4",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 39,
+      "image_sha256": "560ea04ee30a0a2decb1a3272c3032f74eb348e9bc06cb0bc7c691692e2684fc",
+      "independent_raster_sha256": "e7525841daecc5f5e066cc5f6f686503b3ecc54f0f4b78a3ea8601cc57887a17",
+      "independent_raster_dimensions": [
+        2150,
+        1811
+      ],
+      "layout": "下冊封面之後，雙面白色護葉無抄文，右端色卡，近摺有小傷及污點。",
+      "observed_counts": null,
+      "evidence": []
+    },
+    {
+      "frame": 40,
+      "image_sha256": "eff35761410bd4a7e4bad223821dd7bcfa351a4b21f328f26e65d2ce93bced4b",
+      "independent_raster_sha256": "e2b09a8ec648ba62bdee85420f353b302932075c10b875e09c68fef6b09a4aca",
+      "independent_raster_dimensions": [
+        2150,
+        1816
+      ],
+      "layout": "下冊雙紙面未見古抄文；左下有鉛筆樣橫字數字串與冊次記，位置近第 003 頁同類記號。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p040-l-s01",
+          "side": "L",
+          "role": "later_mark",
+          "reading": "〔短數字串待辨〕 v.2",
+          "bbox_approx_xywh_px": [
+            427,
+            1702,
+            209,
+            59
+          ],
+          "image_sha256": "e2b09a8ec648ba62bdee85420f353b302932075c10b875e09c68fef6b09a4aca",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 41,
+      "image_sha256": "9788a61f018357edc9112bb804d4f3cbf510095beec27e7a098749a97f149995",
+      "independent_raster_sha256": "eea6b91ab093123d2532cd5e398ae493f8add6dd772ff54c728571435fbf7c17",
+      "independent_raster_dimensions": [
+        2150,
+        1816
+      ],
+      "layout": "右葉白紙空白，左葉以「目」起下冊本文，近摺鈐兩方朱印，左外小題「目」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p041-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "目",
+          "bbox_approx_xywh_px": [
+            702,
+            364,
+            58,
+            57
+          ],
+          "image_sha256": "eea6b91ab093123d2532cd5e398ae493f8add6dd772ff54c728571435fbf7c17",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p041-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "目為五藏之精華一身之至要",
+          "bbox_approx_xywh_px": [
+            642,
+            273,
+            60,
+            491
+          ],
+          "image_sha256": "eea6b91ab093123d2532cd5e398ae493f8add6dd772ff54c728571435fbf7c17",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p041-l-s03",
+          "side": "L",
+          "role": "physical_seal",
+          "reading": "〔朱色直方印待釋〕",
+          "bbox_approx_xywh_px": [
+            708,
+            1166,
+            114,
+            169
+          ],
+          "image_sha256": "eea6b91ab093123d2532cd5e398ae493f8add6dd772ff54c728571435fbf7c17",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p041-l-s04",
+          "side": "L",
+          "role": "physical_seal",
+          "reading": "〔朱色方印待釋〕",
+          "bbox_approx_xywh_px": [
+            688,
+            1395,
+            143,
+            185
+          ],
+          "image_sha256": "eea6b91ab093123d2532cd5e398ae493f8add6dd772ff54c728571435fbf7c17",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p041-l-s05",
+          "side": "L",
+          "role": "body_excerpt",
+          "reading": "目症七十二般内障二十三候外障四十九候",
+          "bbox_approx_xywh_px": [
+            204,
+            324,
+            61,
+            708
+          ],
+          "image_sha256": "eea6b91ab093123d2532cd5e398ae493f8add6dd772ff54c728571435fbf7c17",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 42,
+      "image_sha256": "6dea37650b0aac63aefda76260569b73b44c831f11760cb1e2c18a6a2aa384ec",
+      "independent_raster_sha256": "814ece53241777aea4c130f7038b0b4c96b74eaf85ed49a060a0380ab894adec",
+      "independent_raster_dimensions": [
+        2150,
+        1816
+      ],
+      "layout": "右接目論，分「附方」、「谷精散」及「一方」等；左葉有小字劑量，並轉眉稜骨痛。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p042-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            1284,
+            356,
+            60,
+            106
+          ],
+          "image_sha256": "814ece53241777aea4c130f7038b0b4c96b74eaf85ed49a060a0380ab894adec",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p042-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "谷精散",
+          "bbox_approx_xywh_px": [
+            1222,
+            271,
+            62,
+            169
+          ],
+          "image_sha256": "814ece53241777aea4c130f7038b0b4c96b74eaf85ed49a060a0380ab894adec",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p042-l-s03",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "眼痛有障時通行方〔「障」疑〕",
+          "bbox_approx_xywh_px": [
+            387,
+            272,
+            61,
+            415
+          ],
+          "image_sha256": "814ece53241777aea4c130f7038b0b4c96b74eaf85ed49a060a0380ab894adec",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p042-l-s04",
+          "side": "L",
+          "role": "interlinear",
+          "reading": "八分〔見黄芩下側〕",
+          "bbox_approx_xywh_px": [
+            359,
+            475,
+            41,
+            41
+          ],
+          "image_sha256": "814ece53241777aea4c130f7038b0b4c96b74eaf85ed49a060a0380ab894adec",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p042-l-s05",
+          "side": "L",
+          "role": "heading",
+          "reading": "附眉稜骨痛",
+          "bbox_approx_xywh_px": [
+            202,
+            402,
+            60,
+            252
+          ],
+          "image_sha256": "814ece53241777aea4c130f7038b0b4c96b74eaf85ed49a060a0380ab894adec",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 43,
+      "image_sha256": "4746ceff9fe3419af387b5ac11348da0b1027882a97cdd48f6914816278baee7",
+      "independent_raster_sha256": "62b71adfa30c313f487352a0e237c645650b3de3a49114b26ce0f9977c5c1a75",
+      "independent_raster_dimensions": [
+        2150,
+        1819
+      ],
+      "layout": "右接目疾，右外另級小題「附七十二症内存十四症」；兩葉各以若干段落提起眼症，右葉夾小補字。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p043-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "附七十二症内存十四症",
+          "bbox_approx_xywh_px": [
+            1406,
+            405,
+            63,
+            457
+          ],
+          "image_sha256": "62b71adfa30c313f487352a0e237c645650b3de3a49114b26ce0f9977c5c1a75",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p043-r-s02",
+          "side": "R",
+          "role": "heading",
+          "reading": "青盲内障",
+          "bbox_approx_xywh_px": [
+            1342,
+            268,
+            62,
+            198
+          ],
+          "image_sha256": "62b71adfa30c313f487352a0e237c645650b3de3a49114b26ce0f9977c5c1a75",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p043-r-s03",
+          "side": "R",
+          "role": "heading",
+          "reading": "花翳白陷〔「翳」疑〕",
+          "bbox_approx_xywh_px": [
+            1038,
+            265,
+            63,
+            202
+          ],
+          "image_sha256": "62b71adfa30c313f487352a0e237c645650b3de3a49114b26ce0f9977c5c1a75",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p043-r-s04",
+          "side": "R",
+          "role": "interlinear",
+          "reading": "初〔見「此症」之下旁〕",
+          "bbox_approx_xywh_px": [
+            1081,
+            555,
+            31,
+            43
+          ],
+          "image_sha256": "62b71adfa30c313f487352a0e237c645650b3de3a49114b26ce0f9977c5c1a75",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p043-l-s05",
+          "side": "L",
+          "role": "heading",
+          "reading": "雞冠蜆肉",
+          "bbox_approx_xywh_px": [
+            631,
+            276,
+            65,
+            206
+          ],
+          "image_sha256": "62b71adfa30c313f487352a0e237c645650b3de3a49114b26ce0f9977c5c1a75",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p043-l-s06",
+          "side": "L",
+          "role": "heading",
+          "reading": "拳毛倒睫",
+          "bbox_approx_xywh_px": [
+            511,
+            274,
+            64,
+            208
+          ],
+          "image_sha256": "62b71adfa30c313f487352a0e237c645650b3de3a49114b26ce0f9977c5c1a75",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 44,
+      "image_sha256": "f62cc1d6a8be51c6abe16eabc5f99865e34516eca292828e4c8f2156dd3487cb",
+      "independent_raster_sha256": "9111ba17482e8b758e0c5ec432c664614dd554b44c81645c61584367f79bd940",
+      "independent_raster_dimensions": [
+        2150,
+        1821
+      ],
+      "layout": "雙葉續目疾；左葉上中有墨線眼形圖與小標, 下接「五輪歌曰」三欄；畫線與疊字分層記錄。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p044-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "努肉扳睛〔首字及「扳」待核〕",
+          "bbox_approx_xywh_px": [
+            1458,
+            268,
+            66,
+            209
+          ],
+          "image_sha256": "9111ba17482e8b758e0c5ec432c664614dd554b44c81645c61584367f79bd940",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p044-r-s02",
+          "side": "R",
+          "role": "heading",
+          "reading": "爛眼風瞼〔末字待核〕",
+          "bbox_approx_xywh_px": [
+            1333,
+            269,
+            70,
+            211
+          ],
+          "image_sha256": "9111ba17482e8b758e0c5ec432c664614dd554b44c81645c61584367f79bd940",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p044-l-s03",
+          "side": "L",
+          "role": "diagram",
+          "reading": "〔眼形雙線，中央圈及兩側尖端可辨〕",
+          "bbox_approx_xywh_px": [
+            417,
+            294,
+            174,
+            145
+          ],
+          "image_sha256": "9111ba17482e8b758e0c5ec432c664614dd554b44c81645c61584367f79bd940",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p044-l-s04",
+          "side": "L",
+          "role": "diagram_label",
+          "reading": "上瞼〔「上」在右，「瞼」暫讀〕",
+          "bbox_approx_xywh_px": [
+            456,
+            297,
+            101,
+            50
+          ],
+          "image_sha256": "9111ba17482e8b758e0c5ec432c664614dd554b44c81645c61584367f79bd940",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p044-l-s05",
+          "side": "L",
+          "role": "diagram_label",
+          "reading": "下瞼〔「下」在右，「瞼」暫讀〕",
+          "bbox_approx_xywh_px": [
+            456,
+            398,
+            100,
+            46
+          ],
+          "image_sha256": "9111ba17482e8b758e0c5ec432c664614dd554b44c81645c61584367f79bd940",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p044-l-s06",
+          "side": "L",
+          "role": "diagram_label",
+          "reading": "〔眼內及兩端有疊線小字待釋〕",
+          "bbox_approx_xywh_px": [
+            432,
+            331,
+            155,
+            64
+          ],
+          "image_sha256": "9111ba17482e8b758e0c5ec432c664614dd554b44c81645c61584367f79bd940",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p044-l-s07",
+          "side": "L",
+          "role": "heading",
+          "reading": "五輪歌曰",
+          "bbox_approx_xywh_px": [
+            515,
+            443,
+            57,
+            197
+          ],
+          "image_sha256": "9111ba17482e8b758e0c5ec432c664614dd554b44c81645c61584367f79bd940",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 45,
+      "image_sha256": "7a143813e93fa00d120ba92b2d174d4c41d0bcace2389d866f75c254afe4407f",
+      "independent_raster_sha256": "d2ec8438e07e79d4321a3146023e1e96a3a53d390243afe0b619dee1650b634f",
+      "independent_raster_dimensions": [
+        2150,
+        1821
+      ],
+      "layout": "右葉空白；左葉起「口唇」，正文墨色深淡不一，左外同題。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p045-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "口唇",
+          "bbox_approx_xywh_px": [
+            695,
+            367,
+            60,
+            99
+          ],
+          "image_sha256": "d2ec8438e07e79d4321a3146023e1e96a3a53d390243afe0b619dee1650b634f",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p045-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "口唇者脾之所主有口瘡口糜口臭之症〔「糜」初讀〕",
+          "bbox_approx_xywh_px": [
+            636,
+            274,
+            64,
+            683
+          ],
+          "image_sha256": "d2ec8438e07e79d4321a3146023e1e96a3a53d390243afe0b619dee1650b634f",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 46,
+      "image_sha256": "222b48217bf6d5547b36f51ff55b94b507b8f816358f30f495b5556049dfa45a",
+      "independent_raster_sha256": "62fbddef26ca1414dd39141d54e727210442ea1727161cac2449d10a7350bf35",
+      "independent_raster_dimensions": [
+        2150,
+        1819
+      ],
+      "layout": "右葉論口味變化後轉「附方」，左葉方藥靠摺僅三欄，左外小題。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p046-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            1347,
+            360,
+            59,
+            104
+          ],
+          "image_sha256": "62fbddef26ca1414dd39141d54e727210442ea1727161cac2449d10a7350bf35",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p046-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "清胃散",
+          "bbox_approx_xywh_px": [
+            1278,
+            272,
+            65,
+            161
+          ],
+          "image_sha256": "62fbddef26ca1414dd39141d54e727210442ea1727161cac2449d10a7350bf35",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p046-r-s03",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "甘露飲",
+          "bbox_approx_xywh_px": [
+            1025,
+            270,
+            66,
+            164
+          ],
+          "image_sha256": "62fbddef26ca1414dd39141d54e727210442ea1727161cac2449d10a7350bf35",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p046-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "凉膈散",
+          "bbox_approx_xywh_px": [
+            625,
+            272,
+            68,
+            161
+          ],
+          "image_sha256": "62fbddef26ca1414dd39141d54e727210442ea1727161cac2449d10a7350bf35",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 47,
+      "image_sha256": "a0e98308ee547cd060b77f521f8073fa1f7c7964b0374e65880aab1883ece7c3",
+      "independent_raster_sha256": "1793f64f23c31af23dc042717eb54a0b497eb0545f43829bb6564a80e1272055",
+      "independent_raster_dimensions": [
+        2150,
+        1821
+      ],
+      "layout": "右葉空白，中下有白斑及零星墨痕。左葉「鼻」正文；首欄與左側欄間有較細小雙列注。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p047-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "鼻",
+          "bbox_approx_xywh_px": [
+            689,
+            359,
+            60,
+            67
+          ],
+          "image_sha256": "1793f64f23c31af23dc042717eb54a0b497eb0545f43829bb6564a80e1272055",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p047-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "鼻者肺之外候其病有鼻塞者",
+          "bbox_approx_xywh_px": [
+            629,
+            272,
+            67,
+            480
+          ],
+          "image_sha256": "1793f64f23c31af23dc042717eb54a0b497eb0545f43829bb6564a80e1272055",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p047-l-s03",
+          "side": "L",
+          "role": "interlinear",
+          "reading": "謂清／涕也〔「清」初讀〕",
+          "bbox_approx_xywh_px": [
+            629,
+            1238,
+            77,
+            87
+          ],
+          "image_sha256": "1793f64f23c31af23dc042717eb54a0b497eb0545f43829bb6564a80e1272055",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p047-l-s04",
+          "side": "L",
+          "role": "interlinear",
+          "reading": "謂濁／涕也〔「濁」初讀〕",
+          "bbox_approx_xywh_px": [
+            630,
+            1487,
+            74,
+            82
+          ],
+          "image_sha256": "1793f64f23c31af23dc042717eb54a0b497eb0545f43829bb6564a80e1272055",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 48,
+      "image_sha256": "72cb423f8ce8950e401a46e41a57e2562672c52052e0204059147fff984b3272",
+      "independent_raster_sha256": "97ebb2f2a35483844c40d79248996879e5a1dc316e332415dc6233a81ff9b2fe",
+      "independent_raster_dimensions": [
+        2150,
+        1816
+      ],
+      "layout": "右葉續鼻方，欄旁見小補字；左葉起「舌」，右首論治，最左「附方」單列而方在下幅。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p048-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "麗澤通氣散",
+          "bbox_approx_xywh_px": [
+            1364,
+            271,
+            64,
+            236
+          ],
+          "image_sha256": "97ebb2f2a35483844c40d79248996879e5a1dc316e332415dc6233a81ff9b2fe",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p048-r-s02",
+          "side": "R",
+          "role": "interlinear",
+          "reading": "葛〔疑為旁補字，所屬待核〕",
+          "bbox_approx_xywh_px": [
+            1347,
+            632,
+            46,
+            67
+          ],
+          "image_sha256": "97ebb2f2a35483844c40d79248996879e5a1dc316e332415dc6233a81ff9b2fe",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p048-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "舌",
+          "bbox_approx_xywh_px": [
+            681,
+            364,
+            57,
+            60
+          ],
+          "image_sha256": "97ebb2f2a35483844c40d79248996879e5a1dc316e332415dc6233a81ff9b2fe",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p048-l-s04",
+          "side": "L",
+          "role": "opening",
+          "reading": "夫舌者心之苗也",
+          "bbox_approx_xywh_px": [
+            624,
+            275,
+            64,
+            357
+          ],
+          "image_sha256": "97ebb2f2a35483844c40d79248996879e5a1dc316e332415dc6233a81ff9b2fe",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p048-l-s05",
+          "side": "L",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            124,
+            359,
+            63,
+            108
+          ],
+          "image_sha256": "97ebb2f2a35483844c40d79248996879e5a1dc316e332415dc6233a81ff9b2fe",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 49,
+      "image_sha256": "aa35337bf317994ff00cb7e92edafac53253f0dc6b9605b1ced25e3149752233",
+      "independent_raster_sha256": "97690fbff89350cc1e2e06dec1fdc772c2017cc42b2d9a9f1027012411c0918f",
+      "independent_raster_dimensions": [
+        2150,
+        1826
+      ],
+      "layout": "雙葉續舌方，左葉文字集中在右半，「去心」等小字夾附於藥名後。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p049-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "回舌丹",
+          "bbox_approx_xywh_px": [
+            1437,
+            270,
+            62,
+            162
+          ],
+          "image_sha256": "97690fbff89350cc1e2e06dec1fdc772c2017cc42b2d9a9f1027012411c0918f",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p049-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "黑参丹",
+          "bbox_approx_xywh_px": [
+            1314,
+            271,
+            61,
+            158
+          ],
+          "image_sha256": "97690fbff89350cc1e2e06dec1fdc772c2017cc42b2d9a9f1027012411c0918f",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p049-r-s03",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "百草散",
+          "bbox_approx_xywh_px": [
+            1179,
+            272,
+            66,
+            162
+          ],
+          "image_sha256": "97690fbff89350cc1e2e06dec1fdc772c2017cc42b2d9a9f1027012411c0918f",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p049-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "冰丹散",
+          "bbox_approx_xywh_px": [
+            490,
+            284,
+            60,
+            165
+          ],
+          "image_sha256": "97690fbff89350cc1e2e06dec1fdc772c2017cc42b2d9a9f1027012411c0918f",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p049-l-s05",
+          "side": "L",
+          "role": "interlinear",
+          "reading": "去心〔接貝母〕",
+          "bbox_approx_xywh_px": [
+            709,
+            760,
+            35,
+            84
+          ],
+          "image_sha256": "97690fbff89350cc1e2e06dec1fdc772c2017cc42b2d9a9f1027012411c0918f",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 50,
+      "image_sha256": "f0a9ced78d9dedabcafc4d7dee58baa84689ce280f0c24f85ad93d5888fa9ef0",
+      "independent_raster_sha256": "37fa783df651a859475e99a2dfb59627895433786454ad4d78d8b0618ea33712",
+      "independent_raster_dimensions": [
+        2150,
+        1829
+      ],
+      "layout": "右側無正文，有淡白紙斑；左起「齒」，論述後靠左「附方」。上緣舊紙有波狀缺損。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p050-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "齒",
+          "bbox_approx_xywh_px": [
+            688,
+            365,
+            59,
+            60
+          ],
+          "image_sha256": "37fa783df651a859475e99a2dfb59627895433786454ad4d78d8b0618ea33712",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p050-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "腎主骨齒者骨之餘髓之所養也",
+          "bbox_approx_xywh_px": [
+            630,
+            271,
+            64,
+            570
+          ],
+          "image_sha256": "37fa783df651a859475e99a2dfb59627895433786454ad4d78d8b0618ea33712",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p050-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            253,
+            367,
+            60,
+            114
+          ],
+          "image_sha256": "37fa783df651a859475e99a2dfb59627895433786454ad4d78d8b0618ea33712",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p050-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "梧桐淚〔末字初讀〕",
+          "bbox_approx_xywh_px": [
+            190,
+            286,
+            60,
+            158
+          ],
+          "image_sha256": "37fa783df651a859475e99a2dfb59627895433786454ad4d78d8b0618ea33712",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 51,
+      "image_sha256": "500b81514971ec7cd6544c731a08e4c308e4537050029e4a1bb8ee3986826ab3",
+      "independent_raster_sha256": "c6a67a3a321ef1469fb82cf76d4be922bea11e78b55c068a5fee0f0620e01813",
+      "independent_raster_dimensions": [
+        2150,
+        1824
+      ],
+      "layout": "續齒方，左右各列多組方名，左半較疏，第四、第五欄只有方名。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p051-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "清胃散",
+          "bbox_approx_xywh_px": [
+            1434,
+            272,
+            66,
+            159
+          ],
+          "image_sha256": "c6a67a3a321ef1469fb82cf76d4be922bea11e78b55c068a5fee0f0620e01813",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p051-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "走馬牙痛方",
+          "bbox_approx_xywh_px": [
+            1180,
+            272,
+            63,
+            251
+          ],
+          "image_sha256": "c6a67a3a321ef1469fb82cf76d4be922bea11e78b55c068a5fee0f0620e01813",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p051-r-s03",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "千金一笑散",
+          "bbox_approx_xywh_px": [
+            936,
+            271,
+            65,
+            245
+          ],
+          "image_sha256": "c6a67a3a321ef1469fb82cf76d4be922bea11e78b55c068a5fee0f0620e01813",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p051-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "烏髭固齒散〔「髭」字初讀〕",
+          "bbox_approx_xywh_px": [
+            687,
+            272,
+            61,
+            254
+          ],
+          "image_sha256": "c6a67a3a321ef1469fb82cf76d4be922bea11e78b55c068a5fee0f0620e01813",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 52,
+      "image_sha256": "286879de81d231e57037c0da5aed07d72c8e0e2ceebb82a8362dced149594912",
+      "independent_raster_sha256": "1c6ee4d2f5e1f006b2702f330c0694f16a1a1531383b2669db68b9f82e0cc501",
+      "independent_raster_dimensions": [
+        2150,
+        1826
+      ],
+      "layout": "右葉空白，左起「咽喉」，多欄連續至底，左外題相應。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p052-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "咽喉",
+          "bbox_approx_xywh_px": [
+            681,
+            365,
+            61,
+            99
+          ],
+          "image_sha256": "1c6ee4d2f5e1f006b2702f330c0694f16a1a1531383b2669db68b9f82e0cc501",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p052-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "咽喉一症多因縱酒過度",
+          "bbox_approx_xywh_px": [
+            622,
+            277,
+            64,
+            415
+          ],
+          "image_sha256": "1c6ee4d2f5e1f006b2702f330c0694f16a1a1531383b2669db68b9f82e0cc501",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p052-l-s03",
+          "side": "L",
+          "role": "body_excerpt",
+          "reading": "血聚于咽喉所致也",
+          "bbox_approx_xywh_px": [
+            571,
+            888,
+            59,
+            246
+          ],
+          "image_sha256": "1c6ee4d2f5e1f006b2702f330c0694f16a1a1531383b2669db68b9f82e0cc501",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 53,
+      "image_sha256": "d29bdee19633944551838025252f3cff29dc7fd1140070fc0225b2b4254522ba",
+      "independent_raster_sha256": "37d8efa88bf1b5d4d8bc58cbcfa0cfb3ad9c07e0776e762e319ee18554fb592a",
+      "independent_raster_dimensions": [
+        2150,
+        1824
+      ],
+      "layout": "右接咽喉與梗塞條，近摺「附方」及如聖散；左見各方與隨正文小字劑量。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p053-r-s01",
+          "side": "R",
+          "role": "body_excerpt",
+          "reading": "諸物梗喉",
+          "bbox_approx_xywh_px": [
+            1382,
+            327,
+            60,
+            217
+          ],
+          "image_sha256": "37d8efa88bf1b5d4d8bc58cbcfa0cfb3ad9c07e0776e762e319ee18554fb592a",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p053-r-s02",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            935,
+            361,
+            59,
+            110
+          ],
+          "image_sha256": "37d8efa88bf1b5d4d8bc58cbcfa0cfb3ad9c07e0776e762e319ee18554fb592a",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p053-l-s03",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "甘桔湯",
+          "bbox_approx_xywh_px": [
+            621,
+            273,
+            63,
+            158
+          ],
+          "image_sha256": "37d8efa88bf1b5d4d8bc58cbcfa0cfb3ad9c07e0776e762e319ee18554fb592a",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p053-l-s04",
+          "side": "L",
+          "role": "interlinear",
+          "reading": "甘草下「二兩」／桔梗下「一兩」",
+          "bbox_approx_xywh_px": [
+            550,
+            451,
+            61,
+            200
+          ],
+          "image_sha256": "37d8efa88bf1b5d4d8bc58cbcfa0cfb3ad9c07e0776e762e319ee18554fb592a",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p053-l-s05",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "解毒雄黄丸",
+          "bbox_approx_xywh_px": [
+            364,
+            274,
+            66,
+            246
+          ],
+          "image_sha256": "37d8efa88bf1b5d4d8bc58cbcfa0cfb3ad9c07e0776e762e319ee18554fb592a",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 54,
+      "image_sha256": "6d1f6e567fd0efdbcf3f92a8d26d905132cf43bf21a27ccacb3977bb228cd9ae",
+      "independent_raster_sha256": "b5e3a2f2a6c237fc253c52b648c517cfe347724ea47c971fd6be3704a44e3cdf",
+      "independent_raster_dimensions": [
+        2150,
+        1834
+      ],
+      "layout": "右葉續咽喉諸方，左葉近摺僅三欄，最左細題「咽喉方」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p054-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "玄参散",
+          "bbox_approx_xywh_px": [
+            1368,
+            273,
+            64,
+            164
+          ],
+          "image_sha256": "b5e3a2f2a6c237fc253c52b648c517cfe347724ea47c971fd6be3704a44e3cdf",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p054-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "山豆根湯",
+          "bbox_approx_xywh_px": [
+            1238,
+            274,
+            67,
+            215
+          ],
+          "image_sha256": "b5e3a2f2a6c237fc253c52b648c517cfe347724ea47c971fd6be3704a44e3cdf",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p054-r-s03",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "金鑰匙〔末二字初讀〕",
+          "bbox_approx_xywh_px": [
+            1118,
+            271,
+            61,
+            155
+          ],
+          "image_sha256": "b5e3a2f2a6c237fc253c52b648c517cfe347724ea47c971fd6be3704a44e3cdf",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p054-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "碧玉丸",
+          "bbox_approx_xywh_px": [
+            682,
+            275,
+            62,
+            161
+          ],
+          "image_sha256": "b5e3a2f2a6c237fc253c52b648c517cfe347724ea47c971fd6be3704a44e3cdf",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 55,
+      "image_sha256": "93405976b1ba449441420d2ec5d3e79c2d997afabd092708782328edaafc09eb",
+      "independent_raster_sha256": "d6ee69b84ba1f70ff3d441de12bc192877f40f94b6bbd7e4f1a37cfb3ed18fb0",
+      "independent_raster_dimensions": [
+        2150,
+        1834
+      ],
+      "layout": "右葉空白；左起鬚髮論，最左折出「附方」及藥欄。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p055-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "鬚髮",
+          "bbox_approx_xywh_px": [
+            673,
+            368,
+            64,
+            102
+          ],
+          "image_sha256": "d6ee69b84ba1f70ff3d441de12bc192877f40f94b6bbd7e4f1a37cfb3ed18fb0",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p055-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "髮者腎之所主故其長短皆由于腎〔「短」「皆」待核〕",
+          "bbox_approx_xywh_px": [
+            610,
+            275,
+            70,
+            523
+          ],
+          "image_sha256": "d6ee69b84ba1f70ff3d441de12bc192877f40f94b6bbd7e4f1a37cfb3ed18fb0",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p055-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            234,
+            372,
+            61,
+            107
+          ],
+          "image_sha256": "d6ee69b84ba1f70ff3d441de12bc192877f40f94b6bbd7e4f1a37cfb3ed18fb0",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p055-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "七寶美髯丹",
+          "bbox_approx_xywh_px": [
+            177,
+            289,
+            66,
+            234
+          ],
+          "image_sha256": "d6ee69b84ba1f70ff3d441de12bc192877f40f94b6bbd7e4f1a37cfb3ed18fb0",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 56,
+      "image_sha256": "ea25d6e8879d767065083afdf40891c51f03a2db0c4f7835ba7b6ce10d80b050",
+      "independent_raster_sha256": "6f1bebca822995373e95a7e4c79412578ca93097370fae2c1967a516b1f1f221",
+      "independent_raster_dimensions": [
+        2150,
+        1826
+      ],
+      "layout": "右續鬚髮方及附小字劑量，左葉方列靠摺，另見一欄述時下用途。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p056-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "玄精丹",
+          "bbox_approx_xywh_px": [
+            1451,
+            268,
+            63,
+            161
+          ],
+          "image_sha256": "6f1bebca822995373e95a7e4c79412578ca93097370fae2c1967a516b1f1f221",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p056-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "防風通聖散",
+          "bbox_approx_xywh_px": [
+            1252,
+            274,
+            65,
+            238
+          ],
+          "image_sha256": "6f1bebca822995373e95a7e4c79412578ca93097370fae2c1967a516b1f1f221",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p056-r-s03",
+          "side": "R",
+          "role": "interlinear",
+          "reading": "一斤〔何首烏後〕",
+          "bbox_approx_xywh_px": [
+            1436,
+            507,
+            33,
+            66
+          ],
+          "image_sha256": "6f1bebca822995373e95a7e4c79412578ca93097370fae2c1967a516b1f1f221",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p056-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "滋榮膏",
+          "bbox_approx_xywh_px": [
+            681,
+            273,
+            61,
+            159
+          ],
+          "image_sha256": "6f1bebca822995373e95a7e4c79412578ca93097370fae2c1967a516b1f1f221",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p056-l-s05",
+          "side": "L",
+          "role": "formula_note",
+          "reading": "烏鬚方時下人用染鬚有五六天過〔「染鬚」二字疑〕",
+          "bbox_approx_xywh_px": [
+            552,
+            280,
+            60,
+            662
+          ],
+          "image_sha256": "6f1bebca822995373e95a7e4c79412578ca93097370fae2c1967a516b1f1f221",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 57,
+      "image_sha256": "f26a46d4553e6f0e298cc5f001eb86976c24f40006ebd1a43d91ad98d7182392",
+      "independent_raster_sha256": "bf534261bb98df65ff75a014cbb2a4989c92ce16b34af69894d8b1c725947c01",
+      "independent_raster_dimensions": [
+        2150,
+        1829
+      ],
+      "layout": "右葉空白、上緣破，左葉分瘰癧及結核等題，正文後另開附方。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p057-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "瘰癧／結核／癭瘤〔「癭」字待核〕",
+          "bbox_approx_xywh_px": [
+            665,
+            357,
+            68,
+            401
+          ],
+          "image_sha256": "bf534261bb98df65ff75a014cbb2a4989c92ce16b34af69894d8b1c725947c01",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p057-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "瘰癧者其状累然〔「累」猶待覆核〕",
+          "bbox_approx_xywh_px": [
+            608,
+            277,
+            63,
+            333
+          ],
+          "image_sha256": "bf534261bb98df65ff75a014cbb2a4989c92ce16b34af69894d8b1c725947c01",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p057-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            236,
+            363,
+            60,
+            108
+          ],
+          "image_sha256": "bf534261bb98df65ff75a014cbb2a4989c92ce16b34af69894d8b1c725947c01",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p057-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "結核在項間或耳後",
+          "bbox_approx_xywh_px": [
+            176,
+            273,
+            59,
+            388
+          ],
+          "image_sha256": "bf534261bb98df65ff75a014cbb2a4989c92ce16b34af69894d8b1c725947c01",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 58,
+      "image_sha256": "53278b87d71d1d6bfa36bc820c6dce5ba7b4e35ed4d51063c5d3b55032a4fcf4",
+      "independent_raster_sha256": "bc01449068a2e5309bdbf5cc57b6c5f7a6de6cb45d7802971e7eb8c3fc22f0f9",
+      "independent_raster_dimensions": [
+        2150,
+        1834
+      ],
+      "layout": "右葉僅右側三欄續結核方，其餘空；左葉開寒熱並列潮熱，最左有「附方」及方名。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p058-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "結核在臂〔「臂」初讀〕",
+          "bbox_approx_xywh_px": [
+            1439,
+            272,
+            66,
+            204
+          ],
+          "image_sha256": "bc01449068a2e5309bdbf5cc57b6c5f7a6de6cb45d7802971e7eb8c3fc22f0f9",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p058-l-s02",
+          "side": "L",
+          "role": "heading",
+          "reading": "外熱内寒内熱外寒",
+          "bbox_approx_xywh_px": [
+            675,
+            367,
+            65,
+            359
+          ],
+          "image_sha256": "bc01449068a2e5309bdbf5cc57b6c5f7a6de6cb45d7802971e7eb8c3fc22f0f9",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p058-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "潮熱",
+          "bbox_approx_xywh_px": [
+            416,
+            367,
+            62,
+            108
+          ],
+          "image_sha256": "bc01449068a2e5309bdbf5cc57b6c5f7a6de6cb45d7802971e7eb8c3fc22f0f9",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p058-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "茯苓補心湯",
+          "bbox_approx_xywh_px": [
+            108,
+            274,
+            65,
+            249
+          ],
+          "image_sha256": "bc01449068a2e5309bdbf5cc57b6c5f7a6de6cb45d7802971e7eb8c3fc22f0f9",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 59,
+      "image_sha256": "07ee504b1ff0fdd52b80e528873c74937f6a20f0a08c9ae243d3a3fe2c21fe45",
+      "independent_raster_sha256": "b2149ae500a997060584841e5756fa4ae8fc4d716bd6235aecc9906bf39b986e",
+      "independent_raster_dimensions": [
+        2150,
+        1834
+      ],
+      "layout": "右葉續寒熱方，字列集中在右側。左葉起身重，短論後續「附方」。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p059-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "三黄丸",
+          "bbox_approx_xywh_px": [
+            1304,
+            274,
+            59,
+            159
+          ],
+          "image_sha256": "b2149ae500a997060584841e5756fa4ae8fc4d716bd6235aecc9906bf39b986e",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p059-l-s02",
+          "side": "L",
+          "role": "heading",
+          "reading": "身重",
+          "bbox_approx_xywh_px": [
+            673,
+            363,
+            59,
+            106
+          ],
+          "image_sha256": "b2149ae500a997060584841e5756fa4ae8fc4d716bd6235aecc9906bf39b986e",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p059-l-s03",
+          "side": "L",
+          "role": "opening",
+          "reading": "身重屬濕屬脾虚亦有肝腎虚者",
+          "bbox_approx_xywh_px": [
+            614,
+            276,
+            61,
+            488
+          ],
+          "image_sha256": "b2149ae500a997060584841e5756fa4ae8fc4d716bd6235aecc9906bf39b986e",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p059-l-s04",
+          "side": "L",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            420,
+            365,
+            61,
+            106
+          ],
+          "image_sha256": "b2149ae500a997060584841e5756fa4ae8fc4d716bd6235aecc9906bf39b986e",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p059-l-s05",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "防己黄芪湯",
+          "bbox_approx_xywh_px": [
+            356,
+            273,
+            65,
+            241
+          ],
+          "image_sha256": "b2149ae500a997060584841e5756fa4ae8fc4d716bd6235aecc9906bf39b986e",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 60,
+      "image_sha256": "a66931a4f956cebe317e99e9b013dfb474944f633d55c0cd938e19fc349e06fa",
+      "independent_raster_sha256": "a7f1fb2d416070fbe9da7aade69b6d2b21b92f2d46a9b169d798f24af1885fec",
+      "independent_raster_dimensions": [
+        2150,
+        1831
+      ],
+      "layout": "右葉續身重方；左葉題「噫症」，短論後轉「附方」，左外同題。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p060-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "八味丸",
+          "bbox_approx_xywh_px": [
+            1348,
+            273,
+            63,
+            151
+          ],
+          "image_sha256": "a7f1fb2d416070fbe9da7aade69b6d2b21b92f2d46a9b169d798f24af1885fec",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p060-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "還少丹",
+          "bbox_approx_xywh_px": [
+            1217,
+            271,
+            63,
+            160
+          ],
+          "image_sha256": "a7f1fb2d416070fbe9da7aade69b6d2b21b92f2d46a9b169d798f24af1885fec",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p060-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "噫症",
+          "bbox_approx_xywh_px": [
+            669,
+            362,
+            60,
+            103
+          ],
+          "image_sha256": "a7f1fb2d416070fbe9da7aade69b6d2b21b92f2d46a9b169d798f24af1885fec",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p060-l-s04",
+          "side": "L",
+          "role": "opening",
+          "reading": "噫即噯氣也屬心脾胃病〔「噯」初讀〕",
+          "bbox_approx_xywh_px": [
+            603,
+            277,
+            65,
+            447
+          ],
+          "image_sha256": "a7f1fb2d416070fbe9da7aade69b6d2b21b92f2d46a9b169d798f24af1885fec",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p060-l-s05",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "保和丸",
+          "bbox_approx_xywh_px": [
+            290,
+            272,
+            63,
+            159
+          ],
+          "image_sha256": "a7f1fb2d416070fbe9da7aade69b6d2b21b92f2d46a9b169d798f24af1885fec",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 61,
+      "image_sha256": "7ee2115b7f4874138a65197ccb522366cf850f6687cc0f3e761dee43148c6969",
+      "independent_raster_sha256": "e66a8a85018e654db6e7774659d492febdd1c65ee4c003e2272f029167536825",
+      "independent_raster_dimensions": [
+        2150,
+        1839
+      ],
+      "layout": "右葉空白，右中有白斑。左葉列「面痛」「胃痛」及「附方」，最外小題相應。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p061-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "面痛／胃痛",
+          "bbox_approx_xywh_px": [
+            665,
+            369,
+            62,
+            260
+          ],
+          "image_sha256": "e66a8a85018e654db6e7774659d492febdd1c65ee4c003e2272f029167536825",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p061-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "面痛屬陽明胃經風火",
+          "bbox_approx_xywh_px": [
+            598,
+            281,
+            65,
+            497
+          ],
+          "image_sha256": "e66a8a85018e654db6e7774659d492febdd1c65ee4c003e2272f029167536825",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p061-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "胃痛",
+          "bbox_approx_xywh_px": [
+            470,
+            366,
+            60,
+            113
+          ],
+          "image_sha256": "e66a8a85018e654db6e7774659d492febdd1c65ee4c003e2272f029167536825",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p061-l-s04",
+          "side": "L",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            288,
+            365,
+            59,
+            108
+          ],
+          "image_sha256": "e66a8a85018e654db6e7774659d492febdd1c65ee4c003e2272f029167536825",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p061-l-s05",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "犀角升麻湯",
+          "bbox_approx_xywh_px": [
+            220,
+            282,
+            60,
+            259
+          ],
+          "image_sha256": "e66a8a85018e654db6e7774659d492febdd1c65ee4c003e2272f029167536825",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 62,
+      "image_sha256": "c3e3c7dfa44b9bb8f3dbcb193239c912db59a6942b59d3e4551af93379d1e7f2",
+      "independent_raster_sha256": "76680d58350e2c6aaab71fda3a8cfa1a4277916e388fc8c223381a5ba057caa6",
+      "independent_raster_dimensions": [
+        2150,
+        1839
+      ],
+      "layout": "右葉先續上方，再列清肺湯；左葉按肉、骨、皮膚分短段，右側文字較集中。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p062-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "清肺湯",
+          "bbox_approx_xywh_px": [
+            1342,
+            272,
+            64,
+            163
+          ],
+          "image_sha256": "76680d58350e2c6aaab71fda3a8cfa1a4277916e388fc8c223381a5ba057caa6",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p062-l-s02",
+          "side": "L",
+          "role": "heading",
+          "reading": "肉／骨／皮膚",
+          "bbox_approx_xywh_px": [
+            661,
+            371,
+            60,
+            265
+          ],
+          "image_sha256": "76680d58350e2c6aaab71fda3a8cfa1a4277916e388fc8c223381a5ba057caa6",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p062-l-s03",
+          "side": "L",
+          "role": "opening",
+          "reading": "肉者脾之所主治脾即所以治肉",
+          "bbox_approx_xywh_px": [
+            608,
+            286,
+            64,
+            535
+          ],
+          "image_sha256": "76680d58350e2c6aaab71fda3a8cfa1a4277916e388fc8c223381a5ba057caa6",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 63,
+      "image_sha256": "2493f6c858679e8da721f81d42b6d1bb7a2fce74abf622c92d6d9e5d8c816d08",
+      "independent_raster_sha256": "2bff26515fa9b4186ceda6a2f87a3065b43de23574253d5462fc354c83288f81",
+      "independent_raster_dimensions": [
+        2150,
+        1836
+      ],
+      "layout": "右葉空白，左葉「四肢」「筋」並題後分段；左外有同名小題。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p063-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "四肢／筋",
+          "bbox_approx_xywh_px": [
+            662,
+            367,
+            56,
+            184
+          ],
+          "image_sha256": "2bff26515fa9b4186ceda6a2f87a3065b43de23574253d5462fc354c83288f81",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p063-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "脾主四肢故脾家太過不及皆令四肢不舉",
+          "bbox_approx_xywh_px": [
+            597,
+            286,
+            66,
+            725
+          ],
+          "image_sha256": "2bff26515fa9b4186ceda6a2f87a3065b43de23574253d5462fc354c83288f81",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p063-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "筋",
+          "bbox_approx_xywh_px": [
+            419,
+            368,
+            54,
+            66
+          ],
+          "image_sha256": "2bff26515fa9b4186ceda6a2f87a3065b43de23574253d5462fc354c83288f81",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p063-l-s04",
+          "side": "L",
+          "role": "opening",
+          "reading": "筋者肝之所主",
+          "bbox_approx_xywh_px": [
+            346,
+            285,
+            64,
+            359
+          ],
+          "image_sha256": "2bff26515fa9b4186ceda6a2f87a3065b43de23574253d5462fc354c83288f81",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 64,
+      "image_sha256": "3e2573c60a72cbc826efcc788f62eecfc60089a7bf6f83ee72c8851dcc950c5d",
+      "independent_raster_sha256": "b2853f6946608ffafb722085208663d770f12c0740896954e66431d394922c39",
+      "independent_raster_dimensions": [
+        2150,
+        1836
+      ],
+      "layout": "右葉空白、數道纖維樣痕；左葉起「痔症」，中間有「治法」短題。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p064-l-s01",
+          "side": "L",
+          "role": "heading",
+          "reading": "痔症",
+          "bbox_approx_xywh_px": [
+            647,
+            369,
+            64,
+            103
+          ],
+          "image_sha256": "b2853f6946608ffafb722085208663d770f12c0740896954e66431d394922c39",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p064-l-s02",
+          "side": "L",
+          "role": "opening",
+          "reading": "痔病總不外于風濕熱氣鬱而成〔「鬱」照形初讀〕",
+          "bbox_approx_xywh_px": [
+            597,
+            280,
+            67,
+            605
+          ],
+          "image_sha256": "b2853f6946608ffafb722085208663d770f12c0740896954e66431d394922c39",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p064-l-s03",
+          "side": "L",
+          "role": "heading",
+          "reading": "治法",
+          "bbox_approx_xywh_px": [
+            279,
+            379,
+            60,
+            101
+          ],
+          "image_sha256": "b2853f6946608ffafb722085208663d770f12c0740896954e66431d394922c39",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p064-l-s04",
+          "side": "L",
+          "role": "formula_note",
+          "reading": "黑地黄丸治久痔下血尤妙",
+          "bbox_approx_xywh_px": [
+            93,
+            339,
+            60,
+            504
+          ],
+          "image_sha256": "b2853f6946608ffafb722085208663d770f12c0740896954e66431d394922c39",
+          "unresolved": false
+        }
+      ]
+    },
+    {
+      "frame": 65,
+      "image_sha256": "de39a3c7b3016735fc7e5d2f7b6b0063242ea713a20f5ba8e506fbc3ee64b9e0",
+      "independent_raster_sha256": "05ba47618b45a9aa20f9819b9be003e0bfeffe03c3732c64655434c2cadc1873",
+      "independent_raster_dimensions": [
+        2150,
+        1847
+      ],
+      "layout": "右葉續痔症，靠摺開附方；左葉再列三方，大小字混排，右葉靠摺末部有塗改。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p065-r-s01",
+          "side": "R",
+          "role": "heading",
+          "reading": "附方",
+          "bbox_approx_xywh_px": [
+            976,
+            368,
+            57,
+            101
+          ],
+          "image_sha256": "05ba47618b45a9aa20f9819b9be003e0bfeffe03c3732c64655434c2cadc1873",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p065-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "秦艽蒼术湯",
+          "bbox_approx_xywh_px": [
+            910,
+            277,
+            61,
+            256
+          ],
+          "image_sha256": "05ba47618b45a9aa20f9819b9be003e0bfeffe03c3732c64655434c2cadc1873",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p065-r-s03",
+          "side": "R",
+          "role": "interlinear",
+          "reading": "去皮尖另研〔「另」初讀，接桃仁〕",
+          "bbox_approx_xywh_px": [
+            871,
+            605,
+            42,
+            205
+          ],
+          "image_sha256": "05ba47618b45a9aa20f9819b9be003e0bfeffe03c3732c64655434c2cadc1873",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p065-l-s04",
+          "side": "L",
+          "role": "formula_heading",
+          "reading": "當歸郁李湯",
+          "bbox_approx_xywh_px": [
+            528,
+            278,
+            64,
+            260
+          ],
+          "image_sha256": "05ba47618b45a9aa20f9819b9be003e0bfeffe03c3732c64655434c2cadc1873",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p065-l-s05",
+          "side": "L",
+          "role": "interlinear",
+          "reading": "四十九个〔接豬後懸蹄甲〕",
+          "bbox_approx_xywh_px": [
+            245,
+            774,
+            42,
+            122
+          ],
+          "image_sha256": "05ba47618b45a9aa20f9819b9be003e0bfeffe03c3732c64655434c2cadc1873",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 66,
+      "image_sha256": "b0736a2ea7a25db514b02963889421804cf7a2b3c9332923868017ae18b546f5",
+      "independent_raster_sha256": "40779b60ce6bb1cd05fa695aeb92700f9a20b606ef99ae4178d56ed43c27d68c",
+      "independent_raster_dimensions": [
+        2150,
+        1849
+      ],
+      "layout": "左白紙空白，右葉痔方續寫少數欄後終止；有小字劑量，正文後無另見落款。",
+      "observed_counts": null,
+      "evidence": [
+        {
+          "unit_id": "p066-r-s01",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "加味四君子湯",
+          "bbox_approx_xywh_px": [
+            1276,
+            281,
+            66,
+            294
+          ],
+          "image_sha256": "40779b60ce6bb1cd05fa695aeb92700f9a20b606ef99ae4178d56ed43c27d68c",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p066-r-s02",
+          "side": "R",
+          "role": "formula_heading",
+          "reading": "黑地黄丸",
+          "bbox_approx_xywh_px": [
+            1152,
+            280,
+            63,
+            198
+          ],
+          "image_sha256": "40779b60ce6bb1cd05fa695aeb92700f9a20b606ef99ae4178d56ed43c27d68c",
+          "unresolved": false
+        },
+        {
+          "unit_id": "p066-r-s03",
+          "side": "R",
+          "role": "interlinear",
+          "reading": "一斤／泔浸〔位於蒼术下〕",
+          "bbox_approx_xywh_px": [
+            1081,
+            477,
+            57,
+            81
+          ],
+          "image_sha256": "40779b60ce6bb1cd05fa695aeb92700f9a20b606ef99ae4178d56ed43c27d68c",
+          "unresolved": true
+        },
+        {
+          "unit_id": "p066-r-s04",
+          "side": "R",
+          "role": "interlinear",
+          "reading": "秋冬一兩夏五錢春七錢〔位於乾姜右下，小字暫讀〕",
+          "bbox_approx_xywh_px": [
+            1114,
+            1057,
+            43,
+            355
+          ],
+          "image_sha256": "40779b60ce6bb1cd05fa695aeb92700f9a20b606ef99ae4178d56ed43c27d68c",
+          "unresolved": true
+        }
+      ]
+    },
+    {
+      "frame": 67,
+      "image_sha256": "6e46f82e27679d865b546a187a49d7eedb76841a05c7fbaea6d045c3f87eac48",
+      "independent_raster_sha256": "60bd16754e747e50e8a30642dead5fa1e43db1158b696be1f6a857ddf4260bd3",
+      "independent_raster_dimensions": [
+        2150,
+        1852
+      ],
+      "layout": "雙面白色護葉，右端紙層與色卡可見，無抄文或題記。",
+      "observed_counts": null,
+      "evidence": []
+    },
+    {
+      "frame": 68,
+      "image_sha256": "730719481ebe06f9f6a4e103bcf81aba86ceefc7043e7cbfea34b65ebe1d3ce7",
+      "independent_raster_sha256": "d3de86d42fdb278363c5c4ad10802512aa5900be5e19f1711665823a26201f8c",
+      "independent_raster_dimensions": [
+        2150,
+        1854
+      ],
+      "layout": "雙面白色護葉，右下有一黑點痕，與第 067 頁紙痕位置不同，無抄文或題記。",
+      "observed_counts": null,
+      "evidence": []
+    },
+    {
+      "frame": 69,
+      "image_sha256": "5bf4ba02b41030e3dd3ac13f546df21ddd2721a93f781c0fac4a32ea6a6b63e2",
+      "independent_raster_sha256": "34e777da4f327a86f6f1f57ac10c1c38dbeec4679bdc1fe884d305173821a3ff",
+      "independent_raster_dimensions": [
+        1779,
+        2150
+      ],
+      "layout": "下冊黃斑紋封底，線裝縫居左，拍攝色卡在右，另有國圖浮水印。未見手書。",
+      "observed_counts": null,
+      "evidence": []
+    }
+  ],
+  "changes": [
+    {
+      "unit": "f004-L-08",
+      "frame": 4,
+      "image_sha256": "806f15a97d766eba6f5b2a2f93e77953dd1b485ed0fcb0efce316b52d9223a6c",
+      "before": "〔翻？〕根",
+      "after": "顫振",
+      "reason": "目次在第八小欄可辨首字右頁、次字左手右辰。原圖依字形比對兩字。",
+      "replace_in_linked_readings": [
+        "〔翻？〕根",
+        "顫振"
+      ]
+    },
+    {
+      "unit": "f004-L-09",
+      "frame": 4,
+      "image_sha256": "806f15a97d766eba6f5b2a2f93e77953dd1b485ed0fcb0efce316b52d9223a6c",
+      "before": "〔瘡？〕症",
+      "after": "瘖症",
+      "reason": "目次第九欄首是疒下音，末部見近方框的日，與倉的筆形有別。",
+      "replace_in_linked_readings": [
+        "〔瘡？〕症",
+        "瘖症"
+      ]
+    },
+    {
+      "unit": "f005-R-01",
+      "frame": 5,
+      "image_sha256": "9a4f15fc78d8f27111cf4ef92c466337b397d907ff753b2bb0f9da43e6286b14",
+      "before": "驚風",
+      "after": "癘風",
+      "reason": "目次第一欄字以疒包萬。正文23頁左首有同形標題。",
+      "replace_in_linked_readings": [
+        "驚風",
+        "癘風"
+      ]
+    },
+    {
+      "unit": "f023-L-01",
+      "frame": 23,
+      "image_sha256": "afae3323442d24fbbfacf1e85bb688a9afcf22884311c29528bc195507b5838e",
+      "before": "〔癘？〕風",
+      "after": "癘風",
+      "reason": "左頁上方短題首字疒外框與內萬均可辨，和本頁下欄起句對照。",
+      "replace_in_linked_readings": [
+        "〔癘？〕風",
+        "癘風"
+      ]
+    },
+    {
+      "unit": "f023-L-02",
+      "frame": 23,
+      "image_sha256": "afae3323442d24fbbfacf1e85bb688a9afcf22884311c29528bc195507b5838e",
+      "before": "〔癘？〕風者受天地惡烈之風毒居榮衛之間榮衛沸溢熱相火相搏血隨火化蘊毒生",
+      "after": "癘風者受天地惡烈之風毒居榮衛之間榮衛沸溢熱相火相搏血隨火化蘊毒生",
+      "reason": "左頁第二主欄上端保有疒內萬的字形，和左一短題相同。",
+      "replace_in_linked_readings": [
+        "〔癘？〕風者",
+        "癘風者"
+      ]
+    },
+    {
+      "unit": "f032-L-02",
+      "frame": 32,
+      "image_sha256": "008c54bbe2147600cb41dfd2338b691376d86ed2ddbd253dc73234bb55479583",
+      "before": "地黃丸加石羔一錢一服卽愈",
+      "after": "地黃丸加石〔菖／羔〕一錢一服卽愈",
+      "reason": "石後字近艸蓋與墨方框，也有原讀羔的可能。兩進路依原圖形和語境並列。",
+      "replace_in_linked_readings": [
+        "石羔",
+        "石〔菖／羔〕"
+      ]
+    }
+  ]
+}

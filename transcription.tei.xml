@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-22. All 69 images were reviewed. The revision documents 6 source-image-supported changes. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>臺灣國家圖書館 06117 <ref target="https://catalog.digitalarchives.tw/item/00/08/67/7a.html">Source catalogue</ref>
@@ -68,14 +68,14 @@
           <ab type="contents" n="f004-L-05" xml:id="u-f004-L-05">火</ab>
           <ab type="contents" n="f004-L-06" xml:id="u-f004-L-06">痰症</ab>
           <ab type="contents" n="f004-L-07" xml:id="u-f004-L-07">〔鬱？〕症</ab>
-          <ab type="contents" n="f004-L-08" xml:id="u-f004-L-08">〔翻？〕根</ab>
-          <ab type="contents" n="f004-L-09" xml:id="u-f004-L-09">〔瘡？〕症</ab>
+          <ab type="contents" n="f004-L-08" xml:id="u-f004-L-08">顫振</ab>
+          <ab type="contents" n="f004-L-09" xml:id="u-f004-L-09">瘖症</ab>
           <ab type="contents" n="f004-L-10" xml:id="u-f004-L-10">痙症</ab>
         </div>
       </div>
       <div n="5" type="scan" corresp="https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=5">
         <div type="surface" n="R">
-          <ab type="contents" n="f005-R-01" xml:id="u-f005-R-01">驚風</ab>
+          <ab type="contents" n="f005-R-01" xml:id="u-f005-R-01">癘風</ab>
           <note type="small-writing" target="#u-f005-R-01">R01 細字「附羌□風　狂丹火毒」疑。R02 側「附□祟」疑。</note>
           <ab type="contents" n="f005-R-02" xml:id="u-f005-R-02">癲狂</ab>
           <ab type="contents" n="f005-R-03" xml:id="u-f005-R-03">癇症</ab>
@@ -498,9 +498,9 @@
           <note type="editorial">f023-feature-03 L09 x146,y627–714 「嵩崖出血」前二字暫讀，待放大。</note>
         </div>
         <div type="surface" n="L">
-          <ab type="heading" n="f023-L-01" xml:id="u-f023-L-01">〔癘？〕風</ab>
+          <ab type="heading" n="f023-L-01" xml:id="u-f023-L-01">癘風</ab>
           <note type="small-writing" target="#u-f023-L-01">附歷節風　斑丹火毒</note>
-          <ab type="body" n="f023-L-02" xml:id="u-f023-L-02">〔癘？〕風者受天地惡烈之風毒居榮衛之間榮衛沸溢熱相火相搏血隨火化蘊毒生</ab>
+          <ab type="body" n="f023-L-02" xml:id="u-f023-L-02">癘風者受天地惡烈之風毒居榮衛之間榮衛沸溢熱相火相搏血隨火化蘊毒生</ab>
           <ab type="body" n="f023-L-03" xml:id="u-f023-L-03">虫所致其症眉髮脫落鼻梁崩壞肌肉不仁遍身疙瘩膿水淋漓是其候也</ab>
           <ab type="body" n="f023-L-04" xml:id="u-f023-L-04">眉髮先落者毒在肺面發紫泡者毒在心脚底先痛或穿者毒在腎遍身如癬者</ab>
           <ab type="body" n="f023-L-05" xml:id="u-f023-L-05">毒在脾目先損者毒在肝此五藏受病之重者也又一曰皮死麻木不仁二曰肉</ab>
@@ -715,7 +715,7 @@
         </div>
         <div type="surface" n="L">
           <ab type="body" n="f032-L-01" xml:id="u-f032-L-01">余患右耳腫痛孔竅閉塞滴水難入疼痛異常服退火涼藥數十帖不効用六味</ab>
-          <ab type="body" n="f032-L-02" xml:id="u-f032-L-02">地黃丸加石羔一錢一服卽愈</ab>
+          <ab type="body" n="f032-L-02" xml:id="u-f032-L-02">地黃丸加石〔菖／羔〕一錢一服卽愈</ab>
           <ab type="heading" n="f032-L-03" xml:id="u-f032-L-03">附方</ab>
           <ab type="formula" n="f032-L-04" xml:id="u-f032-L-04">犀角散</ab>
           <ab type="formula_body" n="f032-L-05" xml:id="u-f032-L-05">犀角屑　木通　甘菊　菖蒲　前胡　生地　枳殻　麥冬　羌活　炙草</ab>

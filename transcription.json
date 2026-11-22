@@ -7,10 +7,10 @@
     "source": "https://catalog.digitalarchives.tw/item/00/08/67/7a.html",
     "manifest": "https://commons.wikimedia.org/wiki/File:NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "69幅逐幅回圖，按原圖與初錄核對並附訂正紀錄。採用 6 個可回圖的讀法調整。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "All 69 images were reviewed. The revision documents 6 source-image-supported changes. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -208,12 +208,12 @@
             {
               "id": "f004-L-08",
               "role": "contents",
-              "text": "〔翻？〕根"
+              "text": "顫振"
             },
             {
               "id": "f004-L-09",
               "role": "contents",
-              "text": "〔瘡？〕症"
+              "text": "瘖症"
             },
             {
               "id": "f004-L-10",
@@ -282,7 +282,7 @@
             {
               "id": "f005-R-01",
               "role": "contents",
-              "text": "驚風",
+              "text": "癘風",
               "small_notes": [
                 "R01 細字「附羌□風　狂丹火毒」疑。R02 側「附□祟」疑。"
               ]
@@ -2556,7 +2556,7 @@
             {
               "id": "f023-L-01",
               "role": "heading",
-              "text": "〔癘？〕風",
+              "text": "癘風",
               "small_notes": [
                 "附歷節風　斑丹火毒"
               ]
@@ -2564,7 +2564,7 @@
             {
               "id": "f023-L-02",
               "role": "body",
-              "text": "〔癘？〕風者受天地惡烈之風毒居榮衛之間榮衛沸溢熱相火相搏血隨火化蘊毒生"
+              "text": "癘風者受天地惡烈之風毒居榮衛之間榮衛沸溢熱相火相搏血隨火化蘊毒生"
             },
             {
               "id": "f023-L-03",
@@ -3731,7 +3731,7 @@
             {
               "id": "f032-L-02",
               "role": "body",
-              "text": "地黃丸加石羔一錢一服卽愈"
+              "text": "地黃丸加石〔菖／羔〕一錢一服卽愈"
             },
             {
               "id": "f032-L-03",
@@ -7609,7 +7609,9 @@
       "body": 259
     },
     "uncertainty_records": 19,
-    "duplicate_images": 1
+    "duplicate_images": 1,
+    "reviewed_image_frames": 69,
+    "columns_with_inline_uncertainty": 8
   },
   "source_reference": {
     "pdf": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf",
