@@ -1,0 +1,739 @@
+{
+  "source": "https://catalog.digitalarchives.tw/item/00/08/67/7a.html",
+  "image_viewer": "https://commons.wikimedia.org/wiki/File:NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf",
+  "source_rights": "https://commons.wikimedia.org/wiki/File:NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#Licensing",
+  "shelfmark": "臺灣國家圖書館 06117",
+  "data_version": "0.1.0",
+  "image_inventory": [
+    {
+      "image": 1,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=1",
+      "sha256": "0ccff6bba279ea157971b33f3ee916413f026dfa8f37a27234a8bf54e0b4c8a5",
+      "scan_width": 1319,
+      "scan_height": 1560,
+      "uncertainty": [],
+      "page_summary": "上冊棕黃紋封面，裝線與右色卡全見。"
+    },
+    {
+      "image": 2,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=2",
+      "sha256": "fa44ce1f5aa5542c053707d593278eab28771251a0ef419bc4edc291068b0fc5",
+      "scan_width": 1560,
+      "scan_height": 1307,
+      "uncertainty": [
+        {
+          "unit_id": "f002-feature-01",
+          "char_offset_0based": 2,
+          "surface_text": "〔5？〕"
+        }
+      ],
+      "page_summary": "上冊內封開面，右面館貼與其內印，左面空白。"
+    },
+    {
+      "image": 3,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=3",
+      "sha256": "c05f4f6634844e72932ebc6dabce54d9cfb2bf64dd074d1d111a65e32c7c5d37",
+      "scan_width": 1560,
+      "scan_height": 1312,
+      "uncertainty": [
+        {
+          "unit_id": "f003-feature-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔3417919？〕"
+        }
+      ],
+      "page_summary": "左、右皆空葉，左面下緣見極淡登錄筆。"
+    },
+    {
+      "image": 4,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=4",
+      "sha256": "806f15a97d766eba6f5b2a2f93e77953dd1b485ed0fcb0efce316b52d9223a6c",
+      "scan_width": 1560,
+      "scan_height": 1310,
+      "uncertainty": [
+        {
+          "unit_id": "f004-L-07",
+          "char_offset_0based": 0,
+          "surface_text": "〔鬱？〕"
+        },
+        {
+          "unit_id": "f004-L-08",
+          "char_offset_0based": 0,
+          "surface_text": "〔翻？〕"
+        },
+        {
+          "unit_id": "f004-L-09",
+          "char_offset_0based": 0,
+          "surface_text": "〔瘡？〕"
+        }
+      ],
+      "page_summary": "右白葉，左為目錄起首。題、作者在同一長欄，正文其餘短欄。"
+    },
+    {
+      "image": 5,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=5",
+      "sha256": "9a4f15fc78d8f27111cf4ef92c466337b397d907ff753b2bb0f9da43e6286b14",
+      "scan_width": 1560,
+      "scan_height": 1309,
+      "uncertainty": [
+        {
+          "unit_id": "f005-R-04",
+          "char_offset_0based": 18,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-feature-01",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-feature-01",
+          "char_offset_0based": 26,
+          "surface_text": "□"
+        }
+      ],
+      "page_summary": "兩面續目錄，細字分層。底部大片空白。"
+    },
+    {
+      "image": 6,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=6",
+      "sha256": "e752d18a129df964d153a276dbc6ee0ac55ec6c17134506a66c252f6e605b60f",
+      "scan_width": 1560,
+      "scan_height": 1312,
+      "uncertainty": [
+        {
+          "unit_id": "f006-L-09",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        }
+      ],
+      "page_summary": "右面目次最後一欄，左面開始傷濕正文，見朱圈與左側小題。"
+    },
+    {
+      "image": 7,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=7",
+      "sha256": "e752d18a129df964d153a276dbc6ee0ac55ec6c17134506a66c252f6e605b60f",
+      "scan_width": 1560,
+      "scan_height": 1312,
+      "uncertainty": [],
+      "transcription_ref_frame": "006",
+      "page_summary": "與第006頁固定 PDF 渲圖雜湊完全一致。此頁保留掃描位置，文字關聯指回第006頁。"
+    },
+    {
+      "image": 8,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=8",
+      "sha256": "6430599df31023811142947aead9a7bdbb85fac624b09cb9fbe8de80e52822a5",
+      "scan_width": 1560,
+      "scan_height": 1314,
+      "uncertainty": [],
+      "page_summary": "右承傷濕正文，R07 轉附方，左續列方。小題另在左欄外。"
+    },
+    {
+      "image": 9,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=9",
+      "sha256": "7e0b6d898458cedfe6ab12f3a5fa6696fdd4a64234860276e60812e93413c989",
+      "scan_width": 1560,
+      "scan_height": 1316,
+      "uncertainty": [],
+      "page_summary": "右空白，左起黃疸正文。左下近中縫有數點墨；右紙角小折。"
+    },
+    {
+      "image": 10,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=10",
+      "sha256": "bf786f14338f750f8c390a0b91c2df43d0927369e2f16fa978648ea82ff0e7b8",
+      "scan_width": 1560,
+      "scan_height": 1310,
+      "uncertainty": [
+        {
+          "unit_id": "f010-R-04",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        }
+      ],
+      "page_summary": "右承黃疸末而轉附方，左面方名、藥材分欄，有側小數量。"
+    },
+    {
+      "image": 11,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=11",
+      "sha256": "349a0545bcd88b35e97d15df682db49577752144e4ebe0f4b8d849dcb4a54777",
+      "scan_width": 1560,
+      "scan_height": 1314,
+      "uncertainty": [],
+      "page_summary": "右葉空，左傷燥正文及附方。"
+    },
+    {
+      "image": 12,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=12",
+      "sha256": "dd84afb8df9d2dc934ad6bcd797c2ef9e98deb92043e127242c1df2bfdf3d898",
+      "scan_width": 1560,
+      "scan_height": 1312,
+      "uncertainty": [],
+      "page_summary": "右承傷燥附方，左面起火條。"
+    },
+    {
+      "image": 13,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=13",
+      "sha256": "fa261a1545dabca62e329f83419dfe174b5f9420c1b6ab82f6e47f472b30c31a",
+      "scan_width": 1560,
+      "scan_height": 1314,
+      "uncertainty": [],
+      "page_summary": "右承火條，並起附方，左全為方名及藥味。"
+    },
+    {
+      "image": 14,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=14",
+      "sha256": "d2805385f058b2a996edb84e51dcf031e610dbdee6824580dde07a7cbcf79ecb",
+      "scan_width": 1560,
+      "scan_height": 1310,
+      "uncertainty": [
+        {
+          "unit_id": "f014-L-06",
+          "char_offset_0based": 22,
+          "surface_text": "□"
+        }
+      ],
+      "page_summary": "右方末，左起瘈瘲條。左葉紙上緣有一段缺角。"
+    },
+    {
+      "image": 15,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=15",
+      "sha256": "b85082cd1cd271b72614dd4759c896b5938f6d6c6bb632d480a4284bf96dc4a2",
+      "scan_width": 1560,
+      "scan_height": 1316,
+      "uncertainty": [],
+      "page_summary": "右側瘈瘲餘論及附方，左側列方後空約半面。"
+    },
+    {
+      "image": 16,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=16",
+      "sha256": "f51352486ece469d3fe2c2e0e63619cb8fbed75baacf6d5133d4678d34a57680",
+      "scan_width": 1560,
+      "scan_height": 1314,
+      "uncertainty": [],
+      "page_summary": "右面空葉，左起攣症、附方，左外短題。"
+    },
+    {
+      "image": 17,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=17",
+      "sha256": "1efa9dc454ef7c91b02cdf7c2e044478df785450fd20ac8e9e78617dad1c2cf4",
+      "scan_width": 1560,
+      "scan_height": 1314,
+      "uncertainty": [],
+      "page_summary": "右續攣症附方，左面起顫振與附方。"
+    },
+    {
+      "image": 18,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=18",
+      "sha256": "140bf1aee585f8587cb147cc2e78cfc6645ca56c4208f080a2e2c6340411df75",
+      "scan_width": 1560,
+      "scan_height": 1314,
+      "uncertainty": [],
+      "page_summary": "右續顫振附方，參术湯和補心丸間有空位。左上紙面有白色缺損，位於墨文以上，左三欄後空白。"
+    },
+    {
+      "image": 19,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=19",
+      "sha256": "965067da0385efd4273bee3f65857f6f703731024dce0ac3d385ffdccfc6ca71",
+      "scan_width": 1560,
+      "scan_height": 1316,
+      "uncertainty": [],
+      "page_summary": "右空白；左另起瘖症，低起題欄，正文間朱圈朱點。"
+    },
+    {
+      "image": 20,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=20",
+      "sha256": "8e91c0eb10d7c9be6d70d8d826dda9408c27fb1c4754ce364adacee9e005314e",
+      "scan_width": 1560,
+      "scan_height": 1318,
+      "uncertainty": [
+        {
+          "unit_id": "f020-L-04",
+          "char_offset_0based": 0,
+          "surface_text": "〔轉？〕"
+        }
+      ],
+      "page_summary": "右接瘖症，三欄正文後入附方；左續方，左上白色紙損高於所見首字。"
+    },
+    {
+      "image": 21,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=21",
+      "sha256": "1bc79ec2fb10a4ed6d5985b13fe7083fe5cf125351cdc8a8e34f85531e02e068",
+      "scan_width": 1560,
+      "scan_height": 1316,
+      "uncertainty": [
+        {
+          "unit_id": "f021-L-06",
+          "char_offset_0based": 0,
+          "surface_text": "〔謂？〕"
+        }
+      ],
+      "page_summary": "右無原書筆墨，左題痙症，正文滿九欄。"
+    },
+    {
+      "image": 22,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=22",
+      "sha256": "a5d52bb998745898185e584bbe5c5137055d9b03e71a486a858b57666d60ae13",
+      "scan_width": 1560,
+      "scan_height": 1320,
+      "uncertainty": [],
+      "page_summary": "右首續痙症，附方起於右第六欄；左續三方，餘空。"
+    },
+    {
+      "image": 23,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=23",
+      "sha256": "afae3323442d24fbbfacf1e85bb688a9afcf22884311c29528bc195507b5838e",
+      "scan_width": 1560,
+      "scan_height": 1318,
+      "uncertainty": [
+        {
+          "unit_id": "f023-L-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔癘？〕"
+        },
+        {
+          "unit_id": "f023-L-02",
+          "char_offset_0based": 0,
+          "surface_text": "〔癘？〕"
+        },
+        {
+          "unit_id": "f023-feature-02",
+          "char_offset_0based": 0,
+          "surface_text": "〔癘？〕"
+        }
+      ],
+      "page_summary": "右空白且上緣靠中縫紙損，左低格起題，題下小字。左葉首題與末欄均存。"
+    },
+    {
+      "image": 24,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=24",
+      "sha256": "0293e5e8ad3ad9a860b28078fb0ff47c9565a2adbb6d0dd99e1b49637ec8df17",
+      "scan_width": 1560,
+      "scan_height": 1320,
+      "uncertainty": [
+        {
+          "unit_id": "f024-feature-02",
+          "char_offset_0based": 0,
+          "surface_text": "〔癘？〕"
+        }
+      ],
+      "page_summary": "右起附方；左第七欄以較小字另起附歷節風，末欄另起短段。"
+    },
+    {
+      "image": 25,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=25",
+      "sha256": "ea5007fb4858d15b126b503cae74b2072e6ceeb4570cc2ec72b1ae769bf3bf33",
+      "scan_width": 1560,
+      "scan_height": 1320,
+      "uncertainty": [],
+      "page_summary": "右續歷節風，右第三欄深處另起斑丹火毒症。左另起癲狂，題下附語。左上有污點及淺紙緣缺。"
+    },
+    {
+      "image": 26,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=26",
+      "sha256": "e05a933b5dbce1b55995daf658bf7d82b324793c66be379251666a5b202d93cf",
+      "scan_width": 1560,
+      "scan_height": 1323,
+      "uncertainty": [
+        {
+          "unit_id": "f026-L-04",
+          "char_offset_0based": 11,
+          "surface_text": "〔？〕"
+        }
+      ],
+      "page_summary": "右續癲狂附方，另有低格小題及第二個附方；左四欄後空。"
+    },
+    {
+      "image": 27,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=27",
+      "sha256": "31f79adb6580c928530595f4f912bec68ba45be3ebe7ea95be7e7f94f2b93d29",
+      "scan_width": 1560,
+      "scan_height": 1323,
+      "uncertainty": [],
+      "page_summary": "右空，左低格起癎症；左末題「附方」，方在次頁。"
+    },
+    {
+      "image": 28,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=28",
+      "sha256": "7a94ba69e65855a3b0ae811509d91bfa0c5d0bb7c4e0ee699e82ba4a0a08017c",
+      "scan_width": 1560,
+      "scan_height": 1325,
+      "uncertainty": [],
+      "page_summary": "左右皆癎症附方；左題目靠中縫，後無正文；左上有小斑。"
+    },
+    {
+      "image": 29,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=29",
+      "sha256": "75b15dcced1a6ef7234dac40aad89fe4edac3ea3561fccb714a5f330288a1db3",
+      "scan_width": 1560,
+      "scan_height": 1327,
+      "uncertainty": [],
+      "page_summary": "右葉無正文，中縫下有墨痕；左題串列多症，正文各症同欄連寫。"
+    },
+    {
+      "image": 30,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=30",
+      "sha256": "e7e78e42e8e805239c511c3d8f8e5752b46ee3ab0d21128c1c566d8659fde250",
+      "scan_width": 1560,
+      "scan_height": 1327,
+      "uncertainty": [],
+      "page_summary": "右續前條附方；左另起交腸，題下分列腸鳴、脫肛、穀道痛痒。中縫下段有小黑痕。"
+    },
+    {
+      "image": 31,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=31",
+      "sha256": "e305735aad7c607598cf67d549b28507c513023cd970b134a2637ae8c05d1de4",
+      "scan_width": 1560,
+      "scan_height": 1329,
+      "uncertainty": [],
+      "page_summary": "右上題附方，排三方；餘空。左起耳條，末欄正文未畢。"
+    },
+    {
+      "image": 32,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=32",
+      "sha256": "008c54bbe2147600cb41dfd2338b691376d86ed2ddbd253dc73234bb55479583",
+      "scan_width": 1560,
+      "scan_height": 1333,
+      "uncertainty": [],
+      "page_summary": "右承前詳耳鳴耳聾，左先記自患右耳兩欄，再附方。左末清神湯方跨頁。"
+    },
+    {
+      "image": 33,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=33",
+      "sha256": "3e8a63c2e40100978f8d68cdad52752f4a904bbd70c9628af30b50de39005e47",
+      "scan_width": 1560,
+      "scan_height": 1338,
+      "uncertainty": [],
+      "page_summary": "右續清神湯藥文，兩面皆耳附方；左中段蜈蚣或虫入耳，各自題起，左末續肉蓯蓉丸。"
+    },
+    {
+      "image": 34,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=34",
+      "sha256": "f1b821dead9bc7d99bc90b77189a828e254f6e5fe001b67d572d6f702e72f58a",
+      "scan_width": 1560,
+      "scan_height": 1340,
+      "uncertainty": [],
+      "page_summary": "上冊所見最後正文頁。右僅存肉蓯蓉丸末一欄，餘紙空；左白護葉。"
+    },
+    {
+      "image": 35,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=35",
+      "sha256": "6ed27fff15067ddabd7876ac28fbe623f99c9e32f54f6fb3c89ae7919df10c2f",
+      "scan_width": 1560,
+      "scan_height": 1334,
+      "uncertainty": [],
+      "page_summary": "上冊末護葉開面，左右全白，有現代水印、右頁側邊書口與掃描色卡。"
+    },
+    {
+      "image": 36,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=36",
+      "sha256": "90a71cdc8afc06853bd4b8024f0c6a09d2508e2b540a5df5cee7ab823511669f",
+      "scan_width": 1560,
+      "scan_height": 1340,
+      "uncertainty": [],
+      "page_summary": "延續上冊尾，全開白護葉，可見前頁紙痕位置稍異；左右無原書題字。"
+    },
+    {
+      "image": 37,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=37",
+      "sha256": "ccf9fb8d3da449b37fbf6c01dd5da35fee5bde7300190ec101cb9fba669fb182",
+      "scan_width": 1287,
+      "scan_height": 1560,
+      "uncertainty": [],
+      "page_summary": "單幅黃褐斑紋封背，裝訂線在左。封面可見材質與四處橫線，無書名。"
+    },
+    {
+      "image": 38,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=38",
+      "sha256": "da566afb39b681791872553d04ef73f6b545723fce5b02ac2a0e42ab81451ac0",
+      "scan_width": 1281,
+      "scan_height": 1560,
+      "uncertainty": [],
+      "page_summary": "黃褐斑紋線裝單幅正面，線在右，右緣有一手書黑字。"
+    },
+    {
+      "image": 39,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=39",
+      "sha256": "560ea04ee30a0a2decb1a3272c3032f74eb348e9bc06cb0bc7c691692e2684fc",
+      "scan_width": 1560,
+      "scan_height": 1314,
+      "uncertainty": [],
+      "page_summary": "下冊開端白護葉，兩面無原書墨文，右面上下小黃斑，中縫兩處褐色線痕。"
+    },
+    {
+      "image": 40,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=40",
+      "sha256": "eff35761410bd4a7e4bad223821dd7bcfa351a4b21f328f26e65d2ce93bced4b",
+      "scan_width": 1560,
+      "scan_height": 1318,
+      "uncertainty": [
+        {
+          "unit_id": "f040-feature-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔347920？〕"
+        }
+      ],
+      "page_summary": "右白護葉，左白護葉下緣有灰色號碼及冊次。另見現代圓徽、紅橫字。"
+    },
+    {
+      "image": 41,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=41",
+      "sha256": "9788a61f018357edc9112bb804d4f3cbf510095beec27e7a098749a97f149995",
+      "scan_width": 1560,
+      "scan_height": 1318,
+      "uncertainty": [],
+      "page_summary": "下冊正文自左葉「目」起，右白護葉；左靠縫有長、方朱印二枚。"
+    },
+    {
+      "image": 42,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=42",
+      "sha256": "6dea37650b0aac63aefda76260569b73b44c831f11760cb1e2c18a6a2aa384ec",
+      "scan_width": 1560,
+      "scan_height": 1318,
+      "uncertainty": [],
+      "page_summary": "左右皆承目條。右附方徑至面末；左方藥與比正文小的計量並列，再起眉稜骨痛。"
+    },
+    {
+      "image": 43,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=43",
+      "sha256": "4746ceff9fe3419af387b5ac11348da0b1027882a97cdd48f6914816278baee7",
+      "scan_width": 1560,
+      "scan_height": 1320,
+      "uncertainty": [],
+      "page_summary": "右上先續眉稜骨痛，低格另題十四症；左右每症連欄，右第八欄見行間小字。"
+    },
+    {
+      "image": 44,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=44",
+      "sha256": "f62cc1d6a8be51c6abe16eabc5f99865e34516eca292828e4c8f2156dd3487cb",
+      "scan_width": 1560,
+      "scan_height": 1321,
+      "uncertainty": [],
+      "page_summary": "右續附眼症數條；左再一症及「五輪歌」，左上眼形圖與符號小字另層。"
+    },
+    {
+      "image": 45,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=45",
+      "sha256": "7a143813e93fa00d120ba92b2d174d4c41d0bcace2389d866f75c254afe4407f",
+      "scan_width": 1560,
+      "scan_height": 1321,
+      "uncertainty": [],
+      "page_summary": "右空白；左起口唇，正文致左葉下邊。L07中有較重改筆。"
+    },
+    {
+      "image": 46,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=46",
+      "sha256": "222b48217bf6d5547b36f51ff55b94b507b8f816358f30f495b5556049dfa45a",
+      "scan_width": 1560,
+      "scan_height": 1320,
+      "uncertainty": [],
+      "page_summary": "右首續口唇，以下附方。瀉白散跨縫，方藥到左第一欄，下續涼膈散。"
+    },
+    {
+      "image": 47,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=47",
+      "sha256": "a0e98308ee547cd060b77f521f8073fa1f7c7964b0374e65880aab1883ece7c3",
+      "scan_width": 1560,
+      "scan_height": 1321,
+      "uncertainty": [],
+      "page_summary": "右無墨文，有白色破痕；左起鼻條，數處兩行小字注於字距。"
+    },
+    {
+      "image": 48,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=48",
+      "sha256": "72cb423f8ce8950e401a46e41a57e2562672c52052e0204059147fff984b3272",
+      "scan_width": 1560,
+      "scan_height": 1318,
+      "uncertainty": [],
+      "page_summary": "右承鼻條，附方從右第二欄起。左另起舌實九欄，末為低格附方題。"
+    },
+    {
+      "image": 49,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=49",
+      "sha256": "aa35337bf317994ff00cb7e92edafac53253f0dc6b9605b1ced25e3149752233",
+      "scan_width": 1560,
+      "scan_height": 1325,
+      "uncertainty": [],
+      "page_summary": "右承附方，部分方名附病候，左第一欄接紫霜丸藥項；L01 有小字，左餘空。"
+    },
+    {
+      "image": 50,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=50",
+      "sha256": "f0a9ced78d9dedabcafc4d7dee58baa84689ce280f0c24f85ad93d5888fa9ef0",
+      "scan_width": 1560,
+      "scan_height": 1327,
+      "uncertainty": [],
+      "page_summary": "右空白，右下有點狀紙損；左起齒，七欄正文後有附方、方名和藥文。"
+    },
+    {
+      "image": 51,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=51",
+      "sha256": "500b81514971ec7cd6544c731a08e4c308e4537050029e4a1bb8ee3986826ab3",
+      "scan_width": 1560,
+      "scan_height": 1323,
+      "uncertainty": [],
+      "page_summary": "右左皆齒附方，左五方中除第一方的藥項外，其他多僅列名。"
+    },
+    {
+      "image": 52,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=52",
+      "sha256": "286879de81d231e57037c0da5aed07d72c8e0e2ceebb82a8362dced149594912",
+      "scan_width": 1560,
+      "scan_height": 1325,
+      "uncertainty": [],
+      "page_summary": "右空白，靠中下有細線狀紙痕；左另起咽喉，左末承次頁。"
+    },
+    {
+      "image": 53,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=53",
+      "sha256": "d29bdee19633944551838025252f3cff29dc7fd1140070fc0225b2b4254522ba",
+      "scan_width": 1560,
+      "scan_height": 1323,
+      "uncertainty": [],
+      "page_summary": "右續咽喉及梗物，後有附方；左續藥項。「升麻飲」方名見左末。"
+    },
+    {
+      "image": 54,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=54",
+      "sha256": "6d1f6e567fd0efdbcf3f92a8d26d905132cf43bf21a27ccacb3977bb228cd9ae",
+      "scan_width": 1560,
+      "scan_height": 1331,
+      "uncertainty": [],
+      "page_summary": "右首是前頁升麻飲藥項；右餘與左三欄仍咽喉方。"
+    },
+    {
+      "image": 55,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=55",
+      "sha256": "93405976b1ba449441420d2ec5d3e79c2d997afabd092708782328edaafc09eb",
+      "scan_width": 1560,
+      "scan_height": 1331,
+      "uncertainty": [],
+      "page_summary": "右葉空白，零星細痕；左起鬚髮，末欄附方藥項引至次頁。"
+    },
+    {
+      "image": 56,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=56",
+      "sha256": "ea25d6e8879d767065083afdf40891c51f03a2db0c4f7835ba7b6ce10d80b050",
+      "scan_width": 1560,
+      "scan_height": 1325,
+      "uncertainty": [],
+      "page_summary": "雙葉延續鬚髮附方。玄精丹、烏鬚易簡方及烏鬚方有小寫劑量與旁筆。"
+    },
+    {
+      "image": 57,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=57",
+      "sha256": "f26a46d4553e6f0e298cc5f001eb86976c24f40006ebd1a43d91ad98d7182392",
+      "scan_width": 1560,
+      "scan_height": 1327,
+      "uncertainty": [],
+      "page_summary": "右空白，上緣兩處紙缺；左另起瘰癧，題下另列結核、癭瘤。藥項在最後兩欄。"
+    },
+    {
+      "image": 58,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=58",
+      "sha256": "53278b87d71d1d6bfa36bc820c6dce5ba7b4e35ed4d51063c5d3b55032a4fcf4",
+      "scan_width": 1560,
+      "scan_height": 1331,
+      "uncertainty": [],
+      "page_summary": "右續結核在臂三欄，以下留空。左另起外熱內寒內熱外寒，左第五欄低格又題潮熱；末見方名及小字。"
+    },
+    {
+      "image": 59,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=59",
+      "sha256": "07ee504b1ff0fdd52b80e528873c74937f6a20f0a08c9ae243d3a3fe2c21fe45",
+      "scan_width": 1560,
+      "scan_height": 1331,
+      "uncertainty": [],
+      "page_summary": "右接茯苓補心湯及三黃丸。左另起身重，附方間兩處留欄距，末題參术湯續下頁。"
+    },
+    {
+      "image": 60,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=60",
+      "sha256": "a66931a4f956cebe317e99e9b013dfb474944f633d55c0cd938e19fc349e06fa",
+      "scan_width": 1560,
+      "scan_height": 1329,
+      "uncertainty": [],
+      "page_summary": "右兩處跳空，僅六墨欄，續身重附方的方名與藥項。左另起噫症、附方。"
+    },
+    {
+      "image": 61,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=61",
+      "sha256": "7ee2115b7f4874138a65197ccb522366cf850f6687cc0f3e761dee43148c6969",
+      "scan_width": 1560,
+      "scan_height": 1334,
+      "uncertainty": [],
+      "page_summary": "右空白，有一白色破洞。左先面痛，題下並見胷痛，後分起胷痛正文與附方。"
+    },
+    {
+      "image": 62,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=62",
+      "sha256": "c3e3c7dfa44b9bb8f3dbcb193239c912db59a6942b59d3e4551af93379d1e7f2",
+      "scan_width": 1560,
+      "scan_height": 1334,
+      "uncertainty": [],
+      "page_summary": "右續前頁清肺散，再列清肺湯。左起肉、骨、皮膚短條，各有低格或單字題。"
+    },
+    {
+      "image": 63,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=63",
+      "sha256": "2493f6c858679e8da721f81d42b6d1bb7a2fce74abf622c92d6d9e5d8c816d08",
+      "scan_width": 1560,
+      "scan_height": 1333,
+      "uncertainty": [],
+      "page_summary": "右空，局部墨斑、摺痕及館水印。左另起四肢與筋兩條；大題另列筋字。"
+    },
+    {
+      "image": 64,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=64",
+      "sha256": "3e2573c60a72cbc826efcc788f62eecfc60089a7bf6f83ee72c8851dcc950c5d",
+      "scan_width": 1560,
+      "scan_height": 1333,
+      "uncertainty": [],
+      "page_summary": "右空白，見兩條細痕；左以痔症起，左第七欄另題治法，末字接右下頁。"
+    },
+    {
+      "image": 65,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=65",
+      "sha256": "de39a3c7b3016735fc7e5d2f7b6b0063242ea713a20f5ba8e506fbc3ee64b9e0",
+      "scan_width": 1560,
+      "scan_height": 1340,
+      "uncertainty": [],
+      "page_summary": "右續痔治法及附方，左續方藥；兩面均滿欄，右末有兩團塗墨。藥項與細字夾注分層。"
+    },
+    {
+      "image": 66,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=66",
+      "sha256": "b0736a2ea7a25db514b02963889421804cf7a2b3c9332923868017ae18b546f5",
+      "scan_width": 1560,
+      "scan_height": 1342,
+      "uncertainty": [],
+      "page_summary": "右續痔方，最後另列黑地黃丸。其藥項同欄小字續至欄中下。左全白護葉。"
+    },
+    {
+      "image": 67,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=67",
+      "sha256": "6e46f82e27679d865b546a187a49d7eedb76841a05c7fbaea6d045c3f87eac48",
+      "scan_width": 1560,
+      "scan_height": 1344,
+      "uncertainty": [],
+      "page_summary": "下冊尾護葉，兩面白頁，右緣露褐色書口。零星紙痕與數位水印可見。"
+    },
+    {
+      "image": 68,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=68",
+      "sha256": "730719481ebe06f9f6a4e103bcf81aba86ceefc7043e7cbfea34b65ebe1d3ce7",
+      "scan_width": 1560,
+      "scan_height": 1346,
+      "uncertainty": [],
+      "page_summary": "下冊第二個尾部白護葉開面，右側書口；右葉下段兩短黑痕，無字形。"
+    },
+    {
+      "image": 69,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NCL-06117_%E5%AF%B6%E7%B4%A0%E5%90%8D%E8%A8%80%E7%A7%98%E9%8C%84.pdf#page=69",
+      "sha256": "5bf4ba02b41030e3dd3ac13f546df21ddd2721a93f781c0fac4a32ea6a6b63e2",
+      "scan_width": 1291,
+      "scan_height": 1560,
+      "uncertainty": [],
+      "page_summary": "下冊封背，黃褐斑紋單幅，線裝在左。只見書衣、繩線、色卡與現代水印。"
+    }
+  ]
+}
